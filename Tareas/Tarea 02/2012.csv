@@ -1,0 +1,421 @@
+Región,CIE-10,Causa de Muerte,Sexo, < 1  , 1 a 4  , 5 a 9  , 10 a 19  , 20 a 44  , 45 a 64  , 65 a 79  , 80 y Más  
+De Arica y Parinacota, A00-B99, Ciertas enfermedades infecciosas y parasitarias,Hombre,0,0,0,0,5,3,4,3
+De Arica y Parinacota, A00-B99, Ciertas enfermedades infecciosas y parasitarias,Mujer,1,0,0,0,1,7,2,3
+De Arica y Parinacota, C00-D48, Tumores (neoplasias),Hombre,0,0,0,0,6,39,58,37
+De Arica y Parinacota, C00-D48, Tumores (neoplasias),Mujer,0,0,0,1,11,27,80,35
+De Arica y Parinacota, E00-E90," Enfermedades endocrinas, nutricionales y metabólicas",Hombre,0,0,0,0,0,11,20,6
+De Arica y Parinacota, E00-E90," Enfermedades endocrinas, nutricionales y metabólicas",Mujer,0,0,0,0,2,10,19,21
+De Arica y Parinacota, F00-F90, Trastornos mentales y del comportamiento,Hombre,0,0,0,0,4,4,5,3
+De Arica y Parinacota, F00-F90, Trastornos mentales y del comportamiento,Mujer,0,0,0,0,1,0,0,19
+De Arica y Parinacota, G00-G99, Enfermedades del sistema nervioso,Hombre,1,0,0,0,1,2,4,5
+De Arica y Parinacota, G00-G99, Enfermedades del sistema nervioso,Mujer,0,0,1,0,3,3,5,8
+De Arica y Parinacota, I00-I99, Enfermedades del sistema circulatorio,Hombre,0,0,0,1,6,34,59,47
+De Arica y Parinacota, I00-I99, Enfermedades del sistema circulatorio,Mujer,0,0,0,0,2,13,41,80
+De Arica y Parinacota, J00-J99, Enfermedades del sistema respiratorio,Hombre,0,0,0,0,0,3,7,30
+De Arica y Parinacota, J00-J99, Enfermedades del sistema respiratorio,Mujer,0,0,0,0,2,6,12,34
+De Arica y Parinacota, K00-K93, Enfermedades del sistema digestivo,Hombre,0,0,0,0,3,19,26,5
+De Arica y Parinacota, K00-K93, Enfermedades del sistema digestivo,Mujer,0,0,0,0,2,5,8,12
+De Arica y Parinacota, N00-N99, Enfermedades del sistema genitourinario,Hombre,0,0,0,0,0,1,9,6
+De Arica y Parinacota, N00-N99, Enfermedades del sistema genitourinario,Mujer,0,0,0,0,0,3,6,13
+De Arica y Parinacota, P00-P96, Ciertas afecciones originadas en el período perinatal,Hombre,10,0,0,0,0,0,0,0
+De Arica y Parinacota, P00-P96, Ciertas afecciones originadas en el período perinatal,Mujer,2,0,0,0,0,0,0,0
+De Arica y Parinacota, Q00-Q99," Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombre,7,1,0,0,1,0,0,0
+De Arica y Parinacota, Q00-Q99," Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujer,9,0,0,0,0,0,0,0
+De Arica y Parinacota, R00-R99," Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte",Hombre,0,0,0,1,3,1,1,8
+De Arica y Parinacota, R00-R99," Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte",Mujer,1,0,0,0,2,0,1,16
+De Arica y Parinacota, V00-Y98, Causas externas de mortalidad,Hombre,2,3,0,3,37,31,9,6
+De Arica y Parinacota, V00-Y98, Causas externas de mortalidad,Mujer,1,4,0,1,2,9,8,2
+De Arica y Parinacota,,Resto de causas,Hombre,0,0,0,0,0,3,3,1
+De Arica y Parinacota,,Resto de causas,Mujer,1,0,0,0,1,3,1,4
+De Tarapacá, A00-B99, Ciertas enfermedades infecciosas y parasitarias,Hombre,0,0,0,0,14,12,3,1
+De Tarapacá, A00-B99, Ciertas enfermedades infecciosas y parasitarias,Mujer,0,0,0,0,4,2,3,3
+De Tarapacá, C00-D48, Tumores (neoplasias),Hombre,0,0,0,2,9,68,62,49
+De Tarapacá, C00-D48, Tumores (neoplasias),Mujer,1,0,0,1,4,37,56,45
+De Tarapacá, E00-E90," Enfermedades endocrinas, nutricionales y metabólicas",Hombre,0,0,0,0,3,11,14,4
+De Tarapacá, E00-E90," Enfermedades endocrinas, nutricionales y metabólicas",Mujer,0,0,0,0,4,7,10,12
+De Tarapacá, F00-F90, Trastornos mentales y del comportamiento,Hombre,0,0,0,0,0,0,6,12
+De Tarapacá, F00-F90, Trastornos mentales y del comportamiento,Mujer,0,0,0,0,0,1,6,19
+De Tarapacá, G00-G99, Enfermedades del sistema nervioso,Hombre,0,0,0,0,2,4,5,9
+De Tarapacá, G00-G99, Enfermedades del sistema nervioso,Mujer,0,1,0,0,1,0,9,20
+De Tarapacá, I00-I99, Enfermedades del sistema circulatorio,Hombre,0,0,0,0,9,54,65,53
+De Tarapacá, I00-I99, Enfermedades del sistema circulatorio,Mujer,0,0,0,1,3,23,50,67
+De Tarapacá, J00-J99, Enfermedades del sistema respiratorio,Hombre,0,0,0,0,1,8,14,19
+De Tarapacá, J00-J99, Enfermedades del sistema respiratorio,Mujer,1,0,0,1,1,7,13,26
+De Tarapacá, K00-K93, Enfermedades del sistema digestivo,Hombre,0,0,0,0,4,29,21,6
+De Tarapacá, K00-K93, Enfermedades del sistema digestivo,Mujer,0,0,0,0,5,4,17,17
+De Tarapacá, N00-N99, Enfermedades del sistema genitourinario,Hombre,1,0,0,0,1,3,5,12
+De Tarapacá, N00-N99, Enfermedades del sistema genitourinario,Mujer,0,0,0,0,0,2,6,7
+De Tarapacá, P00-P96, Ciertas afecciones originadas en el período perinatal,Hombre,10,0,0,0,0,0,0,0
+De Tarapacá, P00-P96, Ciertas afecciones originadas en el período perinatal,Mujer,8,0,0,0,0,0,0,0
+De Tarapacá, Q00-Q99," Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombre,5,0,0,0,1,1,0,0
+De Tarapacá, Q00-Q99," Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujer,8,0,0,0,0,0,0,0
+De Tarapacá, R00-R99," Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte",Hombre,2,0,0,0,3,8,3,12
+De Tarapacá, R00-R99," Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte",Mujer,5,1,0,0,1,0,6,19
+De Tarapacá, V00-Y98, Causas externas de mortalidad,Hombre,0,0,2,9,41,28,8,6
+De Tarapacá, V00-Y98, Causas externas de mortalidad,Mujer,0,1,0,1,13,5,4,7
+De Tarapacá,,Resto de causas,Hombre,0,0,0,0,1,2,2,3
+De Tarapacá,,Resto de causas,Mujer,0,0,0,0,2,1,0,4
+De Antofagasta, A00-B99, Ciertas enfermedades infecciosas y parasitarias,Hombre,0,0,0,0,14,17,4,5
+De Antofagasta, A00-B99, Ciertas enfermedades infecciosas y parasitarias,Mujer,1,0,0,0,2,8,6,9
+De Antofagasta, C00-D48, Tumores (neoplasias),Hombre,0,0,0,3,17,151,194,114
+De Antofagasta, C00-D48, Tumores (neoplasias),Mujer,1,0,0,0,6,105,129,122
+De Antofagasta, E00-E90," Enfermedades endocrinas, nutricionales y metabólicas",Hombre,0,0,0,0,4,23,26,16
+De Antofagasta, E00-E90," Enfermedades endocrinas, nutricionales y metabólicas",Mujer,0,0,0,0,3,18,31,17
+De Antofagasta, F00-F90, Trastornos mentales y del comportamiento,Hombre,0,0,0,0,2,5,10,21
+De Antofagasta, F00-F90, Trastornos mentales y del comportamiento,Mujer,0,0,0,0,1,2,11,56
+De Antofagasta, G00-G99, Enfermedades del sistema nervioso,Hombre,0,2,1,0,3,9,13,5
+De Antofagasta, G00-G99, Enfermedades del sistema nervioso,Mujer,0,1,1,1,0,7,11,17
+De Antofagasta, I00-I99, Enfermedades del sistema circulatorio,Hombre,1,0,0,1,25,96,134,87
+De Antofagasta, I00-I99, Enfermedades del sistema circulatorio,Mujer,0,0,0,1,13,53,92,143
+De Antofagasta, J00-J99, Enfermedades del sistema respiratorio,Hombre,4,0,0,0,9,26,42,51
+De Antofagasta, J00-J99, Enfermedades del sistema respiratorio,Mujer,4,0,0,1,2,15,47,64
+De Antofagasta, K00-K93, Enfermedades del sistema digestivo,Hombre,1,0,0,0,10,60,36,15
+De Antofagasta, K00-K93, Enfermedades del sistema digestivo,Mujer,0,1,0,0,5,19,21,15
+De Antofagasta, N00-N99, Enfermedades del sistema genitourinario,Hombre,1,0,0,0,2,8,16,8
+De Antofagasta, N00-N99, Enfermedades del sistema genitourinario,Mujer,0,0,0,0,1,7,10,16
+De Antofagasta, P00-P96, Ciertas afecciones originadas en el período perinatal,Hombre,25,0,0,0,0,0,0,0
+De Antofagasta, P00-P96, Ciertas afecciones originadas en el período perinatal,Mujer,12,0,0,0,1,0,0,0
+De Antofagasta, Q00-Q99," Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombre,12,2,0,0,1,0,0,0
+De Antofagasta, Q00-Q99," Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujer,16,3,0,0,1,0,0,0
+De Antofagasta, R00-R99," Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte",Hombre,3,0,0,1,5,11,4,9
+De Antofagasta, R00-R99," Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte",Mujer,1,0,0,0,2,2,7,40
+De Antofagasta, V00-Y98, Causas externas de mortalidad,Hombre,1,5,3,13,86,45,11,4
+De Antofagasta, V00-Y98, Causas externas de mortalidad,Mujer,0,2,5,7,20,10,9,18
+De Antofagasta,,Resto de causas,Hombre,0,1,0,0,1,2,4,1
+De Antofagasta,,Resto de causas,Mujer,1,0,0,1,2,5,7,10
+De Atacama, A00-B99, Ciertas enfermedades infecciosas y parasitarias,Hombre,0,0,0,0,1,1,5,4
+De Atacama, A00-B99, Ciertas enfermedades infecciosas y parasitarias,Mujer,0,0,0,0,1,5,6,4
+De Atacama, C00-D48, Tumores (neoplasias),Hombre,0,0,2,1,7,47,103,53
+De Atacama, C00-D48, Tumores (neoplasias),Mujer,0,1,0,0,14,37,55,40
+De Atacama, E00-E90," Enfermedades endocrinas, nutricionales y metabólicas",Hombre,0,0,0,0,5,10,8,8
+De Atacama, E00-E90," Enfermedades endocrinas, nutricionales y metabólicas",Mujer,0,0,0,0,1,16,8,11
+De Atacama, F00-F90, Trastornos mentales y del comportamiento,Hombre,0,0,0,0,1,4,2,3
+De Atacama, F00-F90, Trastornos mentales y del comportamiento,Mujer,0,0,0,0,1,0,0,18
+De Atacama, G00-G99, Enfermedades del sistema nervioso,Hombre,0,0,2,1,5,2,4,4
+De Atacama, G00-G99, Enfermedades del sistema nervioso,Mujer,0,1,0,0,0,1,6,13
+De Atacama, I00-I99, Enfermedades del sistema circulatorio,Hombre,0,0,0,1,6,51,68,89
+De Atacama, I00-I99, Enfermedades del sistema circulatorio,Mujer,0,0,1,0,1,29,68,100
+De Atacama, J00-J99, Enfermedades del sistema respiratorio,Hombre,0,0,0,0,1,14,39,51
+De Atacama, J00-J99, Enfermedades del sistema respiratorio,Mujer,2,1,0,0,1,4,15,35
+De Atacama, K00-K93, Enfermedades del sistema digestivo,Hombre,0,0,0,0,4,26,11,7
+De Atacama, K00-K93, Enfermedades del sistema digestivo,Mujer,0,0,0,0,3,9,17,23
+De Atacama, N00-N99, Enfermedades del sistema genitourinario,Hombre,0,0,0,0,1,2,11,8
+De Atacama, N00-N99, Enfermedades del sistema genitourinario,Mujer,0,0,0,0,3,1,9,7
+De Atacama, P00-P96, Ciertas afecciones originadas en el período perinatal,Hombre,13,0,0,0,0,0,0,0
+De Atacama, P00-P96, Ciertas afecciones originadas en el período perinatal,Mujer,10,0,0,0,0,0,0,0
+De Atacama, Q00-Q99," Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombre,6,1,0,0,0,0,0,0
+De Atacama, Q00-Q99," Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujer,6,1,0,0,0,0,1,0
+De Atacama, R00-R99," Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte",Hombre,0,0,0,0,1,1,3,9
+De Atacama, R00-R99," Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte",Mujer,3,0,0,0,0,0,0,22
+De Atacama, V00-Y98, Causas externas de mortalidad,Hombre,0,0,1,5,40,23,7,3
+De Atacama, V00-Y98, Causas externas de mortalidad,Mujer,1,1,0,5,6,7,6,2
+De Atacama,,Resto de causas,Hombre,0,0,0,0,1,2,1,5
+De Atacama,,Resto de causas,Mujer,0,0,0,1,2,2,4,4
+De Coquimbo, A00-B99, Ciertas enfermedades infecciosas y parasitarias,Hombre,0,0,0,0,10,22,23,20
+De Coquimbo, A00-B99, Ciertas enfermedades infecciosas y parasitarias,Mujer,1,0,0,0,1,8,20,18
+De Coquimbo, C00-D48, Tumores (neoplasias),Hombre,0,1,0,4,17,115,238,172
+De Coquimbo, C00-D48, Tumores (neoplasias),Mujer,0,1,0,3,31,133,203,143
+De Coquimbo, E00-E90," Enfermedades endocrinas, nutricionales y metabólicas",Hombre,0,1,0,2,2,14,40,39
+De Coquimbo, E00-E90," Enfermedades endocrinas, nutricionales y metabólicas",Mujer,1,0,0,0,2,19,42,49
+De Coquimbo, F00-F90, Trastornos mentales y del comportamiento,Hombre,0,0,0,0,1,2,5,18
+De Coquimbo, F00-F90, Trastornos mentales y del comportamiento,Mujer,0,0,0,0,0,3,7,35
+De Coquimbo, G00-G99, Enfermedades del sistema nervioso,Hombre,0,2,0,2,8,9,16,15
+De Coquimbo, G00-G99, Enfermedades del sistema nervioso,Mujer,0,1,0,3,4,4,12,30
+De Coquimbo, I00-I99, Enfermedades del sistema circulatorio,Hombre,0,0,1,1,13,114,210,224
+De Coquimbo, I00-I99, Enfermedades del sistema circulatorio,Mujer,0,0,0,1,6,44,147,313
+De Coquimbo, J00-J99, Enfermedades del sistema respiratorio,Hombre,1,0,0,1,5,14,76,104
+De Coquimbo, J00-J99, Enfermedades del sistema respiratorio,Mujer,3,0,0,0,2,17,25,113
+De Coquimbo, K00-K93, Enfermedades del sistema digestivo,Hombre,2,0,0,0,9,38,45,31
+De Coquimbo, K00-K93, Enfermedades del sistema digestivo,Mujer,0,0,0,0,9,13,40,40
+De Coquimbo, N00-N99, Enfermedades del sistema genitourinario,Hombre,0,0,0,0,0,6,19,29
+De Coquimbo, N00-N99, Enfermedades del sistema genitourinario,Mujer,0,0,0,0,0,6,15,37
+De Coquimbo, P00-P96, Ciertas afecciones originadas en el período perinatal,Hombre,32,0,0,0,0,0,0,0
+De Coquimbo, P00-P96, Ciertas afecciones originadas en el período perinatal,Mujer,14,1,0,0,0,0,0,0
+De Coquimbo, Q00-Q99," Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombre,15,3,0,2,1,1,0,0
+De Coquimbo, Q00-Q99," Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujer,11,0,0,0,1,1,0,0
+De Coquimbo, R00-R99," Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte",Hombre,8,0,0,1,10,12,21,32
+De Coquimbo, R00-R99," Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte",Mujer,8,1,0,1,1,7,10,64
+De Coquimbo, V00-Y98, Causas externas de mortalidad,Hombre,0,1,1,10,111,47,32,24
+De Coquimbo, V00-Y98, Causas externas de mortalidad,Mujer,1,3,1,7,21,14,8,37
+De Coquimbo,,Resto de causas,Hombre,0,0,0,1,1,3,4,11
+De Coquimbo,,Resto de causas,Mujer,1,1,0,1,7,5,9,20
+De Valparaíso, A00-B99, Ciertas enfermedades infecciosas y parasitarias,Hombre,2,0,1,0,20,32,40,27
+De Valparaíso, A00-B99, Ciertas enfermedades infecciosas y parasitarias,Mujer,2,0,0,1,8,17,29,51
+De Valparaíso, C00-D48, Tumores (neoplasias),Hombre,1,1,2,10,50,341,688,426
+De Valparaíso, C00-D48, Tumores (neoplasias),Mujer,0,0,5,7,58,363,515,498
+De Valparaíso, E00-E90," Enfermedades endocrinas, nutricionales y metabólicas",Hombre,0,1,0,0,10,72,109,75
+De Valparaíso, E00-E90," Enfermedades endocrinas, nutricionales y metabólicas",Mujer,0,0,0,0,7,46,119,138
+De Valparaíso, F00-F90, Trastornos mentales y del comportamiento,Hombre,0,0,0,0,0,5,31,59
+De Valparaíso, F00-F90, Trastornos mentales y del comportamiento,Mujer,0,0,0,0,0,3,20,154
+De Valparaíso, G00-G99, Enfermedades del sistema nervioso,Hombre,2,4,0,5,20,24,45,71
+De Valparaíso, G00-G99, Enfermedades del sistema nervioso,Mujer,2,1,4,4,6,18,65,141
+De Valparaíso, I00-I99, Enfermedades del sistema circulatorio,Hombre,3,1,0,3,40,347,736,670
+De Valparaíso, I00-I99, Enfermedades del sistema circulatorio,Mujer,1,0,0,0,24,148,488,1112
+De Valparaíso, J00-J99, Enfermedades del sistema respiratorio,Hombre,3,0,0,2,21,48,205,309
+De Valparaíso, J00-J99, Enfermedades del sistema respiratorio,Mujer,1,0,0,2,5,33,120,393
+De Valparaíso, K00-K93, Enfermedades del sistema digestivo,Hombre,0,0,0,4,29,136,173,97
+De Valparaíso, K00-K93, Enfermedades del sistema digestivo,Mujer,1,0,0,1,7,68,137,178
+De Valparaíso, N00-N99, Enfermedades del sistema genitourinario,Hombre,0,1,0,0,4,17,43,90
+De Valparaíso, N00-N99, Enfermedades del sistema genitourinario,Mujer,0,0,0,0,4,19,59,162
+De Valparaíso, P00-P96, Ciertas afecciones originadas en el período perinatal,Hombre,48,0,0,0,0,0,0,0
+De Valparaíso, P00-P96, Ciertas afecciones originadas en el período perinatal,Mujer,32,0,0,0,0,0,0,0
+De Valparaíso, Q00-Q99," Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombre,34,4,1,4,7,4,0,0
+De Valparaíso, Q00-Q99," Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujer,31,3,1,0,4,4,0,0
+De Valparaíso, R00-R99," Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte",Hombre,6,4,1,1,10,15,26,46
+De Valparaíso, R00-R99," Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte",Mujer,5,2,0,1,4,6,22,99
+De Valparaíso, V00-Y98, Causas externas de mortalidad,Hombre,2,2,1,28,165,173,77,40
+De Valparaíso, V00-Y98, Causas externas de mortalidad,Mujer,2,6,0,9,38,33,33,80
+De Valparaíso,,Resto de causas,Hombre,1,0,1,0,3,18,16,15
+De Valparaíso,,Resto de causas,Mujer,0,1,1,1,10,14,33,48
+Metropolitana de Santiago, A00-B99, Ciertas enfermedades infecciosas y parasitarias,Hombre,5,4,1,1,115,133,110,91
+Metropolitana de Santiago, A00-B99, Ciertas enfermedades infecciosas y parasitarias,Mujer,5,2,1,4,40,59,92,136
+Metropolitana de Santiago, C00-D48, Tumores (neoplasias),Hombre,3,10,13,32,174,1212,2143,1257
+Metropolitana de Santiago, C00-D48, Tumores (neoplasias),Mujer,6,7,10,14,236,1240,1809,1406
+Metropolitana de Santiago, E00-E90," Enfermedades endocrinas, nutricionales y metabólicas",Hombre,2,1,0,2,34,219,398,295
+Metropolitana de Santiago, E00-E90," Enfermedades endocrinas, nutricionales y metabólicas",Mujer,3,1,0,3,23,176,361,467
+Metropolitana de Santiago, F00-F90, Trastornos mentales y del comportamiento,Hombre,0,0,0,1,5,44,105,275
+Metropolitana de Santiago, F00-F90, Trastornos mentales y del comportamiento,Mujer,0,0,0,3,4,8,93,703
+Metropolitana de Santiago, G00-G99, Enfermedades del sistema nervioso,Hombre,3,6,6,15,57,95,160,275
+Metropolitana de Santiago, G00-G99, Enfermedades del sistema nervioso,Mujer,2,7,9,16,30,70,199,556
+Metropolitana de Santiago, I00-I99, Enfermedades del sistema circulatorio,Hombre,3,2,2,13,162,1092,1837,1849
+Metropolitana de Santiago, I00-I99, Enfermedades del sistema circulatorio,Mujer,2,3,3,5,102,502,1326,3435
+Metropolitana de Santiago, J00-J99, Enfermedades del sistema respiratorio,Hombre,13,3,0,2,49,234,578,910
+Metropolitana de Santiago, J00-J99, Enfermedades del sistema respiratorio,Mujer,3,0,2,3,18,137,523,1373
+Metropolitana de Santiago, K00-K93, Enfermedades del sistema digestivo,Hombre,2,0,0,2,121,704,586,265
+Metropolitana de Santiago, K00-K93, Enfermedades del sistema digestivo,Mujer,1,1,2,4,45,260,385,415
+Metropolitana de Santiago, N00-N99, Enfermedades del sistema genitourinario,Hombre,0,1,0,1,3,51,148,169
+Metropolitana de Santiago, N00-N99, Enfermedades del sistema genitourinario,Mujer,0,0,0,0,3,57,132,284
+Metropolitana de Santiago, P00-P96, Ciertas afecciones originadas en el período perinatal,Hombre,171,1,0,0,0,0,0,0
+Metropolitana de Santiago, P00-P96, Ciertas afecciones originadas en el período perinatal,Mujer,119,0,0,0,0,0,0,0
+Metropolitana de Santiago, Q00-Q99," Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombre,140,10,2,8,14,9,7,1
+Metropolitana de Santiago, Q00-Q99," Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujer,151,15,3,6,8,13,1,0
+Metropolitana de Santiago, R00-R99," Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte",Hombre,22,4,0,4,24,71,47,114
+Metropolitana de Santiago, R00-R99," Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte",Mujer,23,1,0,5,15,42,40,239
+Metropolitana de Santiago, V00-Y98, Causas externas de mortalidad,Hombre,9,23,12,111,864,536,240,160
+Metropolitana de Santiago, V00-Y98, Causas externas de mortalidad,Mujer,6,11,5,32,141,121,104,222
+Metropolitana de Santiago,,Resto de causas,Hombre,1,2,1,3,13,20,50,51
+Metropolitana de Santiago,,Resto de causas,Mujer,3,1,0,4,39,51,70,119
+Del Libertador B. O'Higgins, A00-B99, Ciertas enfermedades infecciosas y parasitarias,Hombre,0,0,0,0,12,29,19,14
+Del Libertador B. O'Higgins, A00-B99, Ciertas enfermedades infecciosas y parasitarias,Mujer,0,1,0,0,6,5,13,9
+Del Libertador B. O'Higgins, C00-D48, Tumores (neoplasias),Hombre,0,0,0,6,26,153,281,182
+Del Libertador B. O'Higgins, C00-D48, Tumores (neoplasias),Mujer,0,0,0,1,40,179,226,134
+Del Libertador B. O'Higgins, E00-E90," Enfermedades endocrinas, nutricionales y metabólicas",Hombre,2,1,0,0,11,23,66,35
+Del Libertador B. O'Higgins, E00-E90," Enfermedades endocrinas, nutricionales y metabólicas",Mujer,1,0,0,2,4,26,42,54
+Del Libertador B. O'Higgins, F00-F90, Trastornos mentales y del comportamiento,Hombre,0,0,0,0,2,7,11,27
+Del Libertador B. O'Higgins, F00-F90, Trastornos mentales y del comportamiento,Mujer,0,0,0,0,1,2,11,59
+Del Libertador B. O'Higgins, G00-G99, Enfermedades del sistema nervioso,Hombre,1,1,1,4,10,10,20,28
+Del Libertador B. O'Higgins, G00-G99, Enfermedades del sistema nervioso,Mujer,1,2,1,2,10,5,34,46
+Del Libertador B. O'Higgins, I00-I99, Enfermedades del sistema circulatorio,Hombre,0,0,1,3,33,161,319,254
+Del Libertador B. O'Higgins, I00-I99, Enfermedades del sistema circulatorio,Mujer,0,0,0,2,13,81,192,354
+Del Libertador B. O'Higgins, J00-J99, Enfermedades del sistema respiratorio,Hombre,1,0,0,0,8,44,88,147
+Del Libertador B. O'Higgins, J00-J99, Enfermedades del sistema respiratorio,Mujer,0,0,0,0,1,22,77,229
+Del Libertador B. O'Higgins, K00-K93, Enfermedades del sistema digestivo,Hombre,1,0,0,1,23,93,98,45
+Del Libertador B. O'Higgins, K00-K93, Enfermedades del sistema digestivo,Mujer,0,0,0,0,6,41,42,42
+Del Libertador B. O'Higgins, N00-N99, Enfermedades del sistema genitourinario,Hombre,0,0,0,0,1,15,25,33
+Del Libertador B. O'Higgins, N00-N99, Enfermedades del sistema genitourinario,Mujer,0,0,0,1,0,10,19,43
+Del Libertador B. O'Higgins, P00-P96, Ciertas afecciones originadas en el período perinatal,Hombre,22,0,0,0,0,0,0,0
+Del Libertador B. O'Higgins, P00-P96, Ciertas afecciones originadas en el período perinatal,Mujer,22,0,0,0,0,0,0,0
+Del Libertador B. O'Higgins, Q00-Q99," Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombre,19,2,0,1,2,0,0,0
+Del Libertador B. O'Higgins, Q00-Q99," Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujer,18,0,0,0,2,3,1,0
+Del Libertador B. O'Higgins, R00-R99," Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte",Hombre,2,0,0,1,14,15,24,45
+Del Libertador B. O'Higgins, R00-R99," Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte",Mujer,2,0,0,2,1,5,10,64
+Del Libertador B. O'Higgins, V00-Y98, Causas externas de mortalidad,Hombre,1,3,0,32,146,99,52,18
+Del Libertador B. O'Higgins, V00-Y98, Causas externas de mortalidad,Mujer,0,3,2,6,37,15,11,28
+Del Libertador B. O'Higgins,,Resto de causas,Hombre,1,1,0,0,2,6,12,14
+Del Libertador B. O'Higgins,,Resto de causas,Mujer,0,1,0,1,4,5,17,21
+Del Maule, A00-B99, Ciertas enfermedades infecciosas y parasitarias,Hombre,0,0,0,1,14,23,11,14
+Del Maule, A00-B99, Ciertas enfermedades infecciosas y parasitarias,Mujer,0,0,0,0,4,7,17,16
+Del Maule, C00-D48, Tumores (neoplasias),Hombre,0,0,1,6,28,198,381,235
+Del Maule, C00-D48, Tumores (neoplasias),Mujer,0,1,0,4,45,199,284,207
+Del Maule, E00-E90," Enfermedades endocrinas, nutricionales y metabólicas",Hombre,0,0,0,0,4,34,67,36
+Del Maule, E00-E90," Enfermedades endocrinas, nutricionales y metabólicas",Mujer,0,0,0,1,5,41,71,55
+Del Maule, F00-F90, Trastornos mentales y del comportamiento,Hombre,0,0,0,0,1,12,16,26
+Del Maule, F00-F90, Trastornos mentales y del comportamiento,Mujer,0,0,0,0,1,1,12,60
+Del Maule, G00-G99, Enfermedades del sistema nervioso,Hombre,0,1,1,0,10,10,26,41
+Del Maule, G00-G99, Enfermedades del sistema nervioso,Mujer,0,0,1,4,6,7,27,56
+Del Maule, I00-I99, Enfermedades del sistema circulatorio,Hombre,0,0,0,2,26,194,368,378
+Del Maule, I00-I99, Enfermedades del sistema circulatorio,Mujer,0,0,0,1,15,88,257,478
+Del Maule, J00-J99, Enfermedades del sistema respiratorio,Hombre,2,0,0,1,6,33,114,229
+Del Maule, J00-J99, Enfermedades del sistema respiratorio,Mujer,2,0,0,0,2,14,89,250
+Del Maule, K00-K93, Enfermedades del sistema digestivo,Hombre,1,1,1,1,22,103,96,46
+Del Maule, K00-K93, Enfermedades del sistema digestivo,Mujer,0,0,0,1,6,38,72,50
+Del Maule, N00-N99, Enfermedades del sistema genitourinario,Hombre,1,0,0,0,1,10,28,38
+Del Maule, N00-N99, Enfermedades del sistema genitourinario,Mujer,0,0,0,0,1,9,27,57
+Del Maule, P00-P96, Ciertas afecciones originadas en el período perinatal,Hombre,21,0,0,0,0,0,0,0
+Del Maule, P00-P96, Ciertas afecciones originadas en el período perinatal,Mujer,19,0,0,1,0,0,0,0
+Del Maule, Q00-Q99," Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombre,15,1,0,1,4,4,0,0
+Del Maule, Q00-Q99," Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujer,21,1,1,0,5,3,0,0
+Del Maule, R00-R99," Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte",Hombre,3,0,0,0,4,6,13,18
+Del Maule, R00-R99," Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte",Mujer,0,0,0,2,1,3,5,42
+Del Maule, V00-Y98, Causas externas de mortalidad,Hombre,1,7,5,29,144,156,81,29
+Del Maule, V00-Y98, Causas externas de mortalidad,Mujer,1,3,1,11,30,22,15,29
+Del Maule,,Resto de causas,Hombre,0,0,1,0,0,4,16,16
+Del Maule,,Resto de causas,Mujer,0,1,0,2,7,10,11,19
+Del Bíobío, A00-B99, Ciertas enfermedades infecciosas y parasitarias,Hombre,4,0,0,0,37,61,49,29
+Del Bíobío, A00-B99, Ciertas enfermedades infecciosas y parasitarias,Mujer,1,0,0,0,3,12,47,48
+Del Bíobío, C00-D48, Tumores (neoplasias),Hombre,0,4,7,12,59,413,729,453
+Del Bíobío, C00-D48, Tumores (neoplasias),Mujer,0,3,3,5,95,452,591,448
+Del Bíobío, E00-E90," Enfermedades endocrinas, nutricionales y metabólicas",Hombre,2,0,0,4,10,62,112,84
+Del Bíobío, E00-E90," Enfermedades endocrinas, nutricionales y metabólicas",Mujer,0,1,0,2,5,70,83,127
+Del Bíobío, F00-F90, Trastornos mentales y del comportamiento,Hombre,0,0,0,0,5,14,25,45
+Del Bíobío, F00-F90, Trastornos mentales y del comportamiento,Mujer,0,0,0,0,1,4,10,97
+Del Bíobío, G00-G99, Enfermedades del sistema nervioso,Hombre,1,1,3,5,17,36,54,63
+Del Bíobío, G00-G99, Enfermedades del sistema nervioso,Mujer,0,1,0,1,10,22,46,119
+Del Bíobío, I00-I99, Enfermedades del sistema circulatorio,Hombre,0,0,1,3,80,369,661,599
+Del Bíobío, I00-I99, Enfermedades del sistema circulatorio,Mujer,0,1,1,1,36,189,493,874
+Del Bíobío, J00-J99, Enfermedades del sistema respiratorio,Hombre,1,0,0,0,9,65,198,339
+Del Bíobío, J00-J99, Enfermedades del sistema respiratorio,Mujer,1,1,0,0,8,30,146,459
+Del Bíobío, K00-K93, Enfermedades del sistema digestivo,Hombre,0,0,0,1,49,234,170,91
+Del Bíobío, K00-K93, Enfermedades del sistema digestivo,Mujer,0,1,0,0,19,81,138,134
+Del Bíobío, N00-N99, Enfermedades del sistema genitourinario,Hombre,0,0,0,0,3,13,46,68
+Del Bíobío, N00-N99, Enfermedades del sistema genitourinario,Mujer,0,0,0,0,3,14,54,103
+Del Bíobío, P00-P96, Ciertas afecciones originadas en el período perinatal,Hombre,53,0,0,0,0,0,0,0
+Del Bíobío, P00-P96, Ciertas afecciones originadas en el período perinatal,Mujer,38,0,0,1,0,0,0,0
+Del Bíobío, Q00-Q99," Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombre,49,3,2,1,4,5,1,0
+Del Bíobío, Q00-Q99," Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujer,33,0,0,1,1,1,1,0
+Del Bíobío, R00-R99," Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte",Hombre,5,0,0,1,15,16,38,60
+Del Bíobío, R00-R99," Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte",Mujer,3,0,0,0,5,8,19,113
+Del Bíobío, V00-Y98, Causas externas de mortalidad,Hombre,2,6,1,50,304,228,121,56
+Del Bíobío, V00-Y98, Causas externas de mortalidad,Mujer,3,4,4,15,53,45,27,47
+Del Bíobío,,Resto de causas,Hombre,0,1,0,2,4,10,23,21
+Del Bíobío,,Resto de causas,Mujer,1,0,0,0,7,13,22,46
+De La Araucanía, A00-B99, Ciertas enfermedades infecciosas y parasitarias,Hombre,0,1,0,0,5,17,17,20
+De La Araucanía, A00-B99, Ciertas enfermedades infecciosas y parasitarias,Mujer,0,0,1,0,2,13,15,29
+De La Araucanía, C00-D48, Tumores (neoplasias),Hombre,0,1,4,1,24,163,363,263
+De La Araucanía, C00-D48, Tumores (neoplasias),Mujer,3,0,0,5,31,207,304,198
+De La Araucanía, E00-E90," Enfermedades endocrinas, nutricionales y metabólicas",Hombre,1,0,0,0,5,29,57,39
+De La Araucanía, E00-E90," Enfermedades endocrinas, nutricionales y metabólicas",Mujer,0,0,0,0,4,34,41,53
+De La Araucanía, F00-F90, Trastornos mentales y del comportamiento,Hombre,0,0,0,0,3,9,15,27
+De La Araucanía, F00-F90, Trastornos mentales y del comportamiento,Mujer,0,0,0,0,0,0,6,58
+De La Araucanía, G00-G99, Enfermedades del sistema nervioso,Hombre,3,0,2,2,10,17,25,37
+De La Araucanía, G00-G99, Enfermedades del sistema nervioso,Mujer,0,1,0,1,6,6,21,52
+De La Araucanía, I00-I99, Enfermedades del sistema circulatorio,Hombre,0,1,1,1,21,133,294,311
+De La Araucanía, I00-I99, Enfermedades del sistema circulatorio,Mujer,0,0,0,2,12,88,232,439
+De La Araucanía, J00-J99, Enfermedades del sistema respiratorio,Hombre,2,1,0,1,8,41,86,183
+De La Araucanía, J00-J99, Enfermedades del sistema respiratorio,Mujer,3,0,0,1,3,18,75,179
+De La Araucanía, K00-K93, Enfermedades del sistema digestivo,Hombre,1,1,0,1,30,87,79,53
+De La Araucanía, K00-K93, Enfermedades del sistema digestivo,Mujer,1,0,2,2,10,21,57,60
+De La Araucanía, N00-N99, Enfermedades del sistema genitourinario,Hombre,0,0,0,0,1,8,28,42
+De La Araucanía, N00-N99, Enfermedades del sistema genitourinario,Mujer,0,0,0,0,0,9,23,55
+De La Araucanía, P00-P96, Ciertas afecciones originadas en el período perinatal,Hombre,16,0,0,0,0,0,0,0
+De La Araucanía, P00-P96, Ciertas afecciones originadas en el período perinatal,Mujer,23,0,0,0,0,0,0,0
+De La Araucanía, Q00-Q99," Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombre,17,0,1,0,2,1,1,0
+De La Araucanía, Q00-Q99," Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujer,21,3,0,0,0,2,0,0
+De La Araucanía, R00-R99," Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte",Hombre,2,0,0,1,8,38,47,84
+De La Araucanía, R00-R99," Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte",Mujer,2,0,0,0,3,10,31,132
+De La Araucanía, V00-Y98, Causas externas de mortalidad,Hombre,1,1,1,20,162,134,75,29
+De La Araucanía, V00-Y98, Causas externas de mortalidad,Mujer,2,3,1,8,21,16,15,39
+De La Araucanía,,Resto de causas,Hombre,0,0,0,0,0,4,10,5
+De La Araucanía,,Resto de causas,Mujer,0,0,0,0,3,8,16,25
+De Los Ríos, A00-B99, Ciertas enfermedades infecciosas y parasitarias,Hombre,0,0,0,0,7,9,10,9
+De Los Ríos, A00-B99, Ciertas enfermedades infecciosas y parasitarias,Mujer,0,0,1,0,1,4,12,21
+De Los Ríos, C00-D48, Tumores (neoplasias),Hombre,0,0,0,2,9,78,154,87
+De Los Ríos, C00-D48, Tumores (neoplasias),Mujer,0,0,0,2,19,93,126,94
+De Los Ríos, E00-E90," Enfermedades endocrinas, nutricionales y metabólicas",Hombre,0,0,0,0,1,5,15,16
+De Los Ríos, E00-E90," Enfermedades endocrinas, nutricionales y metabólicas",Mujer,0,0,0,0,0,6,16,20
+De Los Ríos, F00-F90, Trastornos mentales y del comportamiento,Hombre,0,0,0,0,1,4,6,24
+De Los Ríos, F00-F90, Trastornos mentales y del comportamiento,Mujer,0,0,0,0,0,2,5,23
+De Los Ríos, G00-G99, Enfermedades del sistema nervioso,Hombre,0,0,0,0,4,6,14,18
+De Los Ríos, G00-G99, Enfermedades del sistema nervioso,Mujer,1,0,0,1,0,2,11,23
+De Los Ríos, I00-I99, Enfermedades del sistema circulatorio,Hombre,0,0,0,0,9,57,138,158
+De Los Ríos, I00-I99, Enfermedades del sistema circulatorio,Mujer,0,0,0,0,8,36,95,156
+De Los Ríos, J00-J99, Enfermedades del sistema respiratorio,Hombre,1,0,0,1,3,15,46,77
+De Los Ríos, J00-J99, Enfermedades del sistema respiratorio,Mujer,1,0,1,0,5,11,31,114
+De Los Ríos, K00-K93, Enfermedades del sistema digestivo,Hombre,0,1,0,0,8,39,38,19
+De Los Ríos, K00-K93, Enfermedades del sistema digestivo,Mujer,0,0,0,0,5,17,22,31
+De Los Ríos, N00-N99, Enfermedades del sistema genitourinario,Hombre,0,0,0,0,2,5,16,23
+De Los Ríos, N00-N99, Enfermedades del sistema genitourinario,Mujer,0,0,0,0,0,3,10,24
+De Los Ríos, P00-P96, Ciertas afecciones originadas en el período perinatal,Hombre,15,0,0,0,0,0,0,0
+De Los Ríos, P00-P96, Ciertas afecciones originadas en el período perinatal,Mujer,5,0,0,0,0,0,0,0
+De Los Ríos, Q00-Q99," Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombre,7,0,0,0,1,0,1,0
+De Los Ríos, Q00-Q99," Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujer,5,0,0,0,0,0,0,0
+De Los Ríos, R00-R99," Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte",Hombre,2,0,1,1,10,9,17,38
+De Los Ríos, R00-R99," Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte",Mujer,2,0,0,0,2,3,18,71
+De Los Ríos, V00-Y98, Causas externas de mortalidad,Hombre,0,3,0,10,70,66,18,10
+De Los Ríos, V00-Y98, Causas externas de mortalidad,Mujer,0,2,0,4,5,6,6,7
+De Los Ríos,,Resto de causas,Hombre,0,0,0,0,0,1,5,5
+De Los Ríos,,Resto de causas,Mujer,0,0,0,0,2,2,6,9
+De Los Lagos, A00-B99, Ciertas enfermedades infecciosas y parasitarias,Hombre,0,0,0,0,18,23,19,17
+De Los Lagos, A00-B99, Ciertas enfermedades infecciosas y parasitarias,Mujer,2,0,0,0,4,9,9,14
+De Los Lagos, C00-D48, Tumores (neoplasias),Hombre,1,1,0,0,24,193,284,157
+De Los Lagos, C00-D48, Tumores (neoplasias),Mujer,0,0,1,3,42,143,237,184
+De Los Lagos, E00-E90," Enfermedades endocrinas, nutricionales y metabólicas",Hombre,0,0,0,0,6,32,48,24
+De Los Lagos, E00-E90," Enfermedades endocrinas, nutricionales y metabólicas",Mujer,0,1,0,0,9,30,61,44
+De Los Lagos, F00-F90, Trastornos mentales y del comportamiento,Hombre,0,0,0,0,5,20,14,15
+De Los Lagos, F00-F90, Trastornos mentales y del comportamiento,Mujer,0,0,0,0,1,2,11,41
+De Los Lagos, G00-G99, Enfermedades del sistema nervioso,Hombre,0,1,0,3,10,10,23,23
+De Los Lagos, G00-G99, Enfermedades del sistema nervioso,Mujer,0,2,1,1,5,8,20,43
+De Los Lagos, I00-I99, Enfermedades del sistema circulatorio,Hombre,0,0,1,2,17,132,301,270
+De Los Lagos, I00-I99, Enfermedades del sistema circulatorio,Mujer,0,0,0,0,9,55,167,368
+De Los Lagos, J00-J99, Enfermedades del sistema respiratorio,Hombre,1,1,0,1,7,20,65,120
+De Los Lagos, J00-J99, Enfermedades del sistema respiratorio,Mujer,1,0,0,0,3,23,61,174
+De Los Lagos, K00-K93, Enfermedades del sistema digestivo,Hombre,0,0,0,0,41,116,73,27
+De Los Lagos, K00-K93, Enfermedades del sistema digestivo,Mujer,0,1,0,0,10,32,40,43
+De Los Lagos, N00-N99, Enfermedades del sistema genitourinario,Hombre,0,0,0,2,2,9,20,29
+De Los Lagos, N00-N99, Enfermedades del sistema genitourinario,Mujer,0,0,0,0,3,10,24,43
+De Los Lagos, P00-P96, Ciertas afecciones originadas en el período perinatal,Hombre,23,0,1,0,0,0,0,0
+De Los Lagos, P00-P96, Ciertas afecciones originadas en el período perinatal,Mujer,27,0,0,0,0,0,0,0
+De Los Lagos, Q00-Q99," Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombre,21,3,2,3,4,2,0,0
+De Los Lagos, Q00-Q99," Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujer,15,3,0,0,1,1,0,1
+De Los Lagos, R00-R99," Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte",Hombre,2,0,0,3,13,15,17,32
+De Los Lagos, R00-R99," Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte",Mujer,0,0,0,0,4,4,10,61
+De Los Lagos, V00-Y98, Causas externas de mortalidad,Hombre,0,1,3,16,175,146,42,16
+De Los Lagos, V00-Y98, Causas externas de mortalidad,Mujer,0,1,0,5,24,22,8,28
+De Los Lagos,,Resto de causas,Hombre,0,1,0,0,0,7,10,6
+De Los Lagos,,Resto de causas,Mujer,1,2,0,0,6,9,9,21
+De Aisén del Gral. C. Ibáñez del Campo, A00-B99, Ciertas enfermedades infecciosas y parasitarias,Hombre,0,0,0,0,4,2,1,1
+De Aisén del Gral. C. Ibáñez del Campo, A00-B99, Ciertas enfermedades infecciosas y parasitarias,Mujer,0,0,0,0,1,2,4,2
+De Aisén del Gral. C. Ibáñez del Campo, C00-D48, Tumores (neoplasias),Hombre,0,0,0,0,3,21,42,21
+De Aisén del Gral. C. Ibáñez del Campo, C00-D48, Tumores (neoplasias),Mujer,0,0,0,0,7,13,24,14
+De Aisén del Gral. C. Ibáñez del Campo, E00-E90," Enfermedades endocrinas, nutricionales y metabólicas",Hombre,0,0,0,0,1,3,3,3
+De Aisén del Gral. C. Ibáñez del Campo, E00-E90," Enfermedades endocrinas, nutricionales y metabólicas",Mujer,0,0,0,0,0,2,5,3
+De Aisén del Gral. C. Ibáñez del Campo, F00-F90, Trastornos mentales y del comportamiento,Hombre,0,0,0,0,1,0,1,2
+De Aisén del Gral. C. Ibáñez del Campo, F00-F90, Trastornos mentales y del comportamiento,Mujer,0,0,0,0,0,0,1,3
+De Aisén del Gral. C. Ibáñez del Campo, G00-G99, Enfermedades del sistema nervioso,Hombre,0,0,0,0,2,3,1,3
+De Aisén del Gral. C. Ibáñez del Campo, G00-G99, Enfermedades del sistema nervioso,Mujer,0,0,0,0,0,1,7,2
+De Aisén del Gral. C. Ibáñez del Campo, I00-I99, Enfermedades del sistema circulatorio,Hombre,0,0,0,0,5,32,34,30
+De Aisén del Gral. C. Ibáñez del Campo, I00-I99, Enfermedades del sistema circulatorio,Mujer,0,0,0,0,2,7,19,38
+De Aisén del Gral. C. Ibáñez del Campo, J00-J99, Enfermedades del sistema respiratorio,Hombre,0,1,0,0,0,0,12,22
+De Aisén del Gral. C. Ibáñez del Campo, J00-J99, Enfermedades del sistema respiratorio,Mujer,1,0,0,0,0,2,11,20
+De Aisén del Gral. C. Ibáñez del Campo, K00-K93, Enfermedades del sistema digestivo,Hombre,0,0,0,0,1,7,4,3
+De Aisén del Gral. C. Ibáñez del Campo, K00-K93, Enfermedades del sistema digestivo,Mujer,0,0,0,0,0,3,5,5
+De Aisén del Gral. C. Ibáñez del Campo, N00-N99, Enfermedades del sistema genitourinario,Hombre,0,0,0,0,0,1,3,2
+De Aisén del Gral. C. Ibáñez del Campo, N00-N99, Enfermedades del sistema genitourinario,Mujer,0,0,0,0,0,1,4,5
+De Aisén del Gral. C. Ibáñez del Campo, P00-P96, Ciertas afecciones originadas en el período perinatal,Hombre,4,0,0,0,0,0,0,0
+De Aisén del Gral. C. Ibáñez del Campo, P00-P96, Ciertas afecciones originadas en el período perinatal,Mujer,0,0,0,0,0,0,0,0
+De Aisén del Gral. C. Ibáñez del Campo, Q00-Q99," Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombre,4,0,0,0,0,0,0,0
+De Aisén del Gral. C. Ibáñez del Campo, Q00-Q99," Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujer,0,0,0,0,0,0,0,0
+De Aisén del Gral. C. Ibáñez del Campo, R00-R99," Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte",Hombre,0,0,0,0,1,4,4,4
+De Aisén del Gral. C. Ibáñez del Campo, R00-R99," Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte",Mujer,2,0,0,0,1,0,2,2
+De Aisén del Gral. C. Ibáñez del Campo, V00-Y98, Causas externas de mortalidad,Hombre,0,2,1,1,26,18,8,6
+De Aisén del Gral. C. Ibáñez del Campo, V00-Y98, Causas externas de mortalidad,Mujer,0,0,0,0,4,4,0,3
+De Aisén del Gral. C. Ibáñez del Campo,,Resto de causas,Hombre,0,0,0,0,0,1,1,1
+De Aisén del Gral. C. Ibáñez del Campo,,Resto de causas,Mujer,1,0,0,0,3,0,1,3
+De Magallanes y de La Antártica Chilena, A00-B99, Ciertas enfermedades infecciosas y parasitarias,Hombre,0,0,0,0,0,2,4,1
+De Magallanes y de La Antártica Chilena, A00-B99, Ciertas enfermedades infecciosas y parasitarias,Mujer,0,0,0,0,0,2,1,3
+De Magallanes y de La Antártica Chilena, C00-D48, Tumores (neoplasias),Hombre,0,0,0,1,3,36,65,33
+De Magallanes y de La Antártica Chilena, C00-D48, Tumores (neoplasias),Mujer,0,0,0,0,5,34,49,30
+De Magallanes y de La Antártica Chilena, E00-E90," Enfermedades endocrinas, nutricionales y metabólicas",Hombre,0,0,0,0,4,5,11,1
+De Magallanes y de La Antártica Chilena, E00-E90," Enfermedades endocrinas, nutricionales y metabólicas",Mujer,0,0,0,0,2,3,6,6
+De Magallanes y de La Antártica Chilena, F00-F90, Trastornos mentales y del comportamiento,Hombre,0,0,0,0,1,0,2,3
+De Magallanes y de La Antártica Chilena, F00-F90, Trastornos mentales y del comportamiento,Mujer,0,0,0,0,1,0,1,9
+De Magallanes y de La Antártica Chilena, G00-G99, Enfermedades del sistema nervioso,Hombre,0,0,0,1,1,4,2,6
+De Magallanes y de La Antártica Chilena, G00-G99, Enfermedades del sistema nervioso,Mujer,1,0,0,0,1,2,5,15
+De Magallanes y de La Antártica Chilena, I00-I99, Enfermedades del sistema circulatorio,Hombre,0,0,0,1,7,49,75,56
+De Magallanes y de La Antártica Chilena, I00-I99, Enfermedades del sistema circulatorio,Mujer,0,0,0,0,0,19,28,82
+De Magallanes y de La Antártica Chilena, J00-J99, Enfermedades del sistema respiratorio,Hombre,0,0,0,0,1,5,11,25
+De Magallanes y de La Antártica Chilena, J00-J99, Enfermedades del sistema respiratorio,Mujer,0,0,0,0,0,4,3,36
+De Magallanes y de La Antártica Chilena, K00-K93, Enfermedades del sistema digestivo,Hombre,0,0,0,0,5,24,12,8
+De Magallanes y de La Antártica Chilena, K00-K93, Enfermedades del sistema digestivo,Mujer,0,0,0,0,1,7,12,10
+De Magallanes y de La Antártica Chilena, N00-N99, Enfermedades del sistema genitourinario,Hombre,0,0,0,0,0,2,3,7
+De Magallanes y de La Antártica Chilena, N00-N99, Enfermedades del sistema genitourinario,Mujer,0,0,0,0,0,2,3,9
+De Magallanes y de La Antártica Chilena, P00-P96, Ciertas afecciones originadas en el período perinatal,Hombre,3,0,0,0,0,0,0,0
+De Magallanes y de La Antártica Chilena, P00-P96, Ciertas afecciones originadas en el período perinatal,Mujer,5,0,0,0,1,0,0,0
+De Magallanes y de La Antártica Chilena, Q00-Q99," Malformaciones congénitas, deformidades y anomalías cromosómicas",Hombre,1,0,0,0,0,0,0,0
+De Magallanes y de La Antártica Chilena, Q00-Q99," Malformaciones congénitas, deformidades y anomalías cromosómicas",Mujer,3,1,0,0,1,1,0,0
+De Magallanes y de La Antártica Chilena, R00-R99," Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte",Hombre,0,0,0,1,2,0,3,2
+De Magallanes y de La Antártica Chilena, R00-R99," Síntomas, signos y hallazgos anormales clínicos y de laboratorio no clasificados en otra parte",Mujer,1,0,0,0,0,1,0,11
+De Magallanes y de La Antártica Chilena, V00-Y98, Causas externas de mortalidad,Hombre,0,0,0,5,28,20,13,4
+De Magallanes y de La Antártica Chilena, V00-Y98, Causas externas de mortalidad,Mujer,1,0,0,1,6,5,3,4
+De Magallanes y de La Antártica Chilena,,Resto de causas,Hombre,0,0,0,0,1,0,0,1
+De Magallanes y de La Antártica Chilena,,Resto de causas,Mujer,0,0,0,0,0,3,3,2

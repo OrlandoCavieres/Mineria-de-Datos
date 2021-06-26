@@ -1,0 +1,640 @@
+Región,Código Muerte,Sexo,0 a 4,5 a 9,10 a 14,15 a 19,20 a 24,25 a 29,30 a 34,35 a 39,40 a 44,45 a 49,50 a 54,55 a 59,60 a 64,65 a 69,70 a 74,75 a 79,80 +,Indeterminado
+De Arica y Parinacota, A00-B99,Hombres,0,0,0,0,0,2,3,2,3,3,2,2,2,0,1,1,4,0
+De Arica y Parinacota, A00-B99,Mujeres,1,0,0,0,0,0,0,0,2,4,2,0,2,3,3,1,2,0
+De Arica y Parinacota, A00-B99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Arica y Parinacota, C00-D48,Hombres,0,0,0,1,0,0,1,2,2,4,6,12,18,27,41,30,40,0
+De Arica y Parinacota, C00-D48,Mujeres,0,0,0,1,0,0,2,4,6,6,14,15,13,10,26,33,43,0
+De Arica y Parinacota, C00-D48,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Arica y Parinacota, E00-E90,Hombres,0,0,0,0,0,0,0,0,0,0,0,3,3,4,6,10,12,0
+De Arica y Parinacota, E00-E90,Mujeres,0,0,1,0,0,0,0,0,1,1,0,1,3,3,4,4,14,0
+De Arica y Parinacota, E00-E90,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Arica y Parinacota, F00-F90,Hombres,0,0,0,0,0,0,0,0,1,0,1,1,0,0,2,1,2,0
+De Arica y Parinacota, F00-F90,Mujeres,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,0
+De Arica y Parinacota, F00-F90,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Arica y Parinacota, G00-G99,Hombres,1,0,0,2,0,0,0,1,1,0,1,1,1,0,2,4,9,0
+De Arica y Parinacota, G00-G99,Mujeres,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,3,9,0
+De Arica y Parinacota, G00-G99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Arica y Parinacota, I00-I99,Hombres,0,0,0,0,1,0,1,0,2,4,5,9,11,13,15,20,55,0
+De Arica y Parinacota, I00-I99,Mujeres,0,0,0,1,0,0,0,0,0,1,2,3,8,4,10,19,62,0
+De Arica y Parinacota, J00-J99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Arica y Parinacota, J00-J99,Hombres,0,0,0,0,0,0,0,0,0,1,1,1,2,5,8,8,27,0
+De Arica y Parinacota, J00-J99,Mujeres,0,0,0,0,0,0,0,0,0,0,1,0,3,3,8,7,28,0
+De Arica y Parinacota, J00-J99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Arica y Parinacota, K00-K93,Hombres,0,0,0,0,0,0,1,0,6,5,8,10,9,2,7,5,8,0
+De Arica y Parinacota, K00-K93,Mujeres,0,0,0,0,0,0,0,1,0,2,0,5,2,4,6,5,6,0
+De Arica y Parinacota, K00-K93,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Arica y Parinacota, N00-N99,Hombres,0,0,0,0,0,0,0,0,0,1,1,2,0,0,4,2,8,0
+De Arica y Parinacota, N00-N99,Mujeres,0,0,0,0,0,0,0,0,1,0,0,1,0,1,2,3,18,0
+De Arica y Parinacota, N00-N99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Arica y Parinacota, P00-P96,Hombres,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Arica y Parinacota, P00-P96,Mujeres,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Arica y Parinacota, P00-P96,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Arica y Parinacota, Q00-Q99,Hombres,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Arica y Parinacota, Q00-Q99,Mujeres,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+De Arica y Parinacota, Q00-Q99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Arica y Parinacota, R00-R99,Hombres,3,0,0,0,0,0,0,1,0,1,0,0,1,1,1,1,9,0
+De Arica y Parinacota, R00-R99,Mujeres,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,21,0
+De Arica y Parinacota, R00-R99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Arica y Parinacota, V00-Y98,Hombres,3,0,1,4,5,8,5,11,2,6,2,3,7,2,3,4,6,0
+De Arica y Parinacota, V00-Y98,Mujeres,3,1,1,1,2,4,3,3,1,2,2,0,3,3,1,2,5,0
+De Arica y Parinacota, V00-Y98,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Arica y Parinacota,,Hombres,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,4,1,0
+De Arica y Parinacota,,Mujeres,0,0,0,0,1,0,0,0,0,0,1,5,3,0,0,0,5,0
+De Arica y Parinacota,,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Tarapacá, A00-B99,Hombres,1,0,0,0,0,1,3,5,2,4,3,4,1,5,0,2,2,0
+De Tarapacá, A00-B99,Mujeres,1,0,0,0,0,0,0,1,1,1,0,0,0,2,1,0,7,0
+De Tarapacá, A00-B99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Tarapacá, C00-D48,Hombres,2,0,2,0,3,2,3,0,2,2,16,20,26,20,40,25,42,0
+De Tarapacá, C00-D48,Mujeres,0,0,1,2,0,0,1,7,5,6,8,17,22,17,20,22,36,0
+De Tarapacá, C00-D48,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Tarapacá, E00-E90,Hombres,0,0,1,0,0,0,0,1,1,1,1,2,5,5,8,6,7,0
+De Tarapacá, E00-E90,Mujeres,0,0,0,0,0,0,0,1,0,1,4,6,3,4,3,2,13,0
+De Tarapacá, E00-E90,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Tarapacá, F00-F90,Hombres,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,5,0
+De Tarapacá, F00-F90,Mujeres,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,13,0
+De Tarapacá, F00-F90,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Tarapacá, G00-G99,Hombres,0,0,0,2,0,0,2,0,1,0,1,1,2,1,0,2,6,0
+De Tarapacá, G00-G99,Mujeres,1,0,0,1,0,0,0,0,5,1,0,1,2,0,1,4,17,0
+De Tarapacá, G00-G99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Tarapacá, I00-I99,Hombres,0,0,0,0,1,0,1,4,0,8,22,17,14,37,21,33,47,0
+De Tarapacá, I00-I99,Mujeres,0,0,1,0,0,0,0,1,1,1,6,11,12,12,19,20,96,0
+De Tarapacá, J00-J99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Tarapacá, J00-J99,Hombres,0,0,0,0,0,0,0,1,0,4,1,4,2,4,7,11,23,0
+De Tarapacá, J00-J99,Mujeres,3,0,0,0,0,0,0,1,0,0,0,1,4,4,2,6,38,0
+De Tarapacá, J00-J99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Tarapacá, K00-K93,Hombres,0,0,0,0,0,1,1,1,4,3,6,9,9,11,8,6,13,0
+De Tarapacá, K00-K93,Mujeres,0,0,0,0,0,0,0,1,1,4,3,0,5,3,3,3,10,0
+De Tarapacá, K00-K93,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Tarapacá, N00-N99,Hombres,0,0,0,0,0,0,0,0,0,1,0,2,0,4,1,3,4,0
+De Tarapacá, N00-N99,Mujeres,0,0,0,0,0,0,1,0,0,0,1,0,0,3,2,2,6,0
+De Tarapacá, N00-N99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Tarapacá, P00-P96,Hombres,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Tarapacá, P00-P96,Mujeres,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Tarapacá, P00-P96,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Tarapacá, Q00-Q99,Hombres,7,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+De Tarapacá, Q00-Q99,Mujeres,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Tarapacá, Q00-Q99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Tarapacá, R00-R99,Hombres,4,0,0,0,1,1,1,0,0,3,1,0,1,2,0,2,8,0
+De Tarapacá, R00-R99,Mujeres,4,0,0,1,1,2,0,1,1,0,1,0,0,0,0,1,13,1
+De Tarapacá, R00-R99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Tarapacá, V00-Y98,Hombres,1,2,0,7,11,12,9,8,6,4,7,4,4,3,6,3,6,1
+De Tarapacá, V00-Y98,Mujeres,2,0,1,1,2,2,0,4,0,1,1,1,1,1,3,2,6,0
+De Tarapacá, V00-Y98,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Tarapacá,,Hombres,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,5,0
+De Tarapacá,,Mujeres,0,0,0,0,0,0,1,1,0,0,0,0,0,2,0,2,7,0
+De Tarapacá,,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Antofagasta, A00-B99,Hombres,0,0,0,0,2,3,1,9,1,6,8,3,11,6,6,1,9,0
+De Antofagasta, A00-B99,Mujeres,2,0,0,0,1,0,0,1,1,0,4,2,4,4,4,4,8,1
+De Antofagasta, A00-B99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Antofagasta, C00-D48,Hombres,0,1,2,2,2,2,1,6,6,23,21,33,52,85,82,59,99,0
+De Antofagasta, C00-D48,Mujeres,0,0,2,1,2,4,5,6,6,7,31,33,47,43,46,51,82,0
+De Antofagasta, C00-D48,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Antofagasta, E00-E90,Hombres,0,0,0,0,0,0,0,0,1,3,5,9,4,17,11,17,22,0
+De Antofagasta, E00-E90,Mujeres,1,0,0,0,0,1,1,0,2,2,3,4,4,10,11,14,28,0
+De Antofagasta, E00-E90,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Antofagasta, F00-F90,Hombres,0,0,0,0,0,0,0,0,1,0,0,1,0,3,1,3,13,0
+De Antofagasta, F00-F90,Mujeres,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,37,0
+De Antofagasta, F00-F90,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Antofagasta, G00-G99,Hombres,0,1,0,0,2,2,0,2,3,1,1,2,4,1,3,6,16,0
+De Antofagasta, G00-G99,Mujeres,0,0,1,0,1,1,0,0,0,1,2,1,3,3,6,4,34,0
+De Antofagasta, G00-G99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Antofagasta, I00-I99,Hombres,0,0,0,0,1,2,3,6,9,15,40,37,48,47,55,40,104,0
+De Antofagasta, I00-I99,Mujeres,0,0,0,0,0,0,2,3,4,9,12,14,15,31,38,48,159,0
+De Antofagasta, J00-J99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Antofagasta, J00-J99,Hombres,2,0,0,0,0,0,1,2,3,0,8,6,6,13,14,26,70,0
+De Antofagasta, J00-J99,Mujeres,3,0,0,0,1,0,0,1,1,3,4,4,8,5,6,10,67,0
+De Antofagasta, J00-J99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Antofagasta, K00-K93,Hombres,1,0,0,0,0,0,1,6,8,7,14,18,17,17,9,8,14,0
+De Antofagasta, K00-K93,Mujeres,1,0,0,1,0,0,0,2,2,2,6,6,10,10,11,8,16,0
+De Antofagasta, K00-K93,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Antofagasta, N00-N99,Hombres,0,0,0,0,0,0,0,0,1,0,3,2,5,4,8,3,18,0
+De Antofagasta, N00-N99,Mujeres,0,0,0,0,0,2,0,1,0,1,1,2,3,3,4,7,24,0
+De Antofagasta, N00-N99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Antofagasta, P00-P96,Hombres,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Antofagasta, P00-P96,Mujeres,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Antofagasta, P00-P96,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Antofagasta, Q00-Q99,Hombres,11,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+De Antofagasta, Q00-Q99,Mujeres,14,0,1,0,0,0,0,1,1,1,1,0,0,2,0,0,0,0
+De Antofagasta, Q00-Q99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Antofagasta, R00-R99,Hombres,6,0,0,0,1,4,2,2,3,0,1,6,4,1,4,3,22,0
+De Antofagasta, R00-R99,Mujeres,5,0,0,0,0,0,0,1,0,1,1,0,1,2,0,3,32,0
+De Antofagasta, R00-R99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Antofagasta, V00-Y98,Hombres,7,4,3,12,21,10,30,16,20,9,15,15,13,8,5,8,5,0
+De Antofagasta, V00-Y98,Mujeres,2,0,1,2,3,1,3,2,3,2,8,4,3,3,3,2,21,0
+De Antofagasta, V00-Y98,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Antofagasta,,Hombres,1,0,0,1,1,0,0,1,2,2,4,1,2,2,2,2,4,0
+De Antofagasta,,Mujeres,0,0,1,0,1,2,0,0,1,0,1,1,2,4,2,7,11,0
+De Antofagasta,,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Atacama, A00-B99,Hombres,1,0,0,0,0,0,1,0,1,1,3,2,1,5,1,7,6,0
+De Atacama, A00-B99,Mujeres,0,0,1,0,0,1,0,0,2,0,0,1,3,2,3,2,3,0
+De Atacama, A00-B99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Atacama, C00-D48,Hombres,0,1,0,1,1,1,2,1,3,7,8,12,11,24,28,23,67,0
+De Atacama, C00-D48,Mujeres,1,0,0,0,0,1,0,5,5,4,7,20,21,18,24,23,47,0
+De Atacama, C00-D48,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Atacama, E00-E90,Hombres,0,0,0,0,0,0,0,0,0,2,0,0,0,8,10,8,10,0
+De Atacama, E00-E90,Mujeres,1,0,0,0,2,0,0,0,0,1,2,4,2,4,8,4,11,0
+De Atacama, E00-E90,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Atacama, F00-F90,Hombres,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0
+De Atacama, F00-F90,Mujeres,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,12,0
+De Atacama, F00-F90,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Atacama, G00-G99,Hombres,0,0,0,2,1,0,0,0,1,0,1,1,1,3,7,2,9,0
+De Atacama, G00-G99,Mujeres,1,0,1,0,0,1,1,0,0,0,0,0,0,1,0,5,12,0
+De Atacama, G00-G99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Atacama, I00-I99,Hombres,1,0,0,0,0,2,1,1,4,7,14,7,20,24,29,30,71,0
+De Atacama, I00-I99,Mujeres,0,1,0,0,0,0,1,2,2,4,0,12,8,10,20,24,114,0
+De Atacama, J00-J99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Atacama, J00-J99,Hombres,3,0,0,0,0,0,1,0,0,1,1,4,3,6,17,23,45,0
+De Atacama, J00-J99,Mujeres,0,0,0,0,0,1,0,0,1,0,0,0,2,1,2,1,28,0
+De Atacama, J00-J99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Atacama, K00-K93,Hombres,0,0,0,0,0,0,0,0,1,4,5,6,4,9,7,5,15,0
+De Atacama, K00-K93,Mujeres,0,0,1,0,0,1,0,1,0,1,2,4,3,3,4,5,19,0
+De Atacama, K00-K93,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Atacama, N00-N99,Hombres,0,0,0,0,0,0,0,1,0,0,1,1,2,3,3,2,4,0
+De Atacama, N00-N99,Mujeres,0,0,0,0,0,1,0,0,0,0,1,1,1,1,2,5,6,0
+De Atacama, N00-N99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Atacama, P00-P96,Hombres,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Atacama, P00-P96,Mujeres,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Atacama, P00-P96,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Atacama, Q00-Q99,Hombres,6,0,0,0,0,2,0,1,0,0,0,0,1,0,0,0,0,0
+De Atacama, Q00-Q99,Mujeres,5,1,0,0,1,1,1,0,0,1,0,0,1,0,0,0,0,0
+De Atacama, Q00-Q99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Atacama, R00-R99,Hombres,2,0,0,0,2,0,0,0,0,2,0,1,0,1,1,4,9,0
+De Atacama, R00-R99,Mujeres,2,0,0,0,0,0,0,0,0,0,1,0,0,2,1,1,24,0
+De Atacama, R00-R99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Atacama, V00-Y98,Hombres,0,1,2,5,11,15,6,11,8,7,4,4,2,2,3,3,7,0
+De Atacama, V00-Y98,Mujeres,3,0,0,6,0,4,3,2,3,1,3,0,1,0,1,1,9,0
+De Atacama, V00-Y98,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Atacama,,Hombres,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,4,0
+De Atacama,,Mujeres,0,0,0,1,0,0,0,0,0,0,2,0,0,0,3,3,5,0
+De Atacama,,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Coquimbo, A00-B99,Hombres,1,0,0,2,2,2,3,6,6,3,7,7,5,4,9,12,17,0
+De Coquimbo, A00-B99,Mujeres,0,1,0,0,0,1,0,0,1,1,1,3,7,2,4,10,21,0
+De Coquimbo, A00-B99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Coquimbo, C00-D48,Hombres,0,2,0,1,5,1,2,6,10,18,32,37,50,86,97,100,190,0
+De Coquimbo, C00-D48,Mujeres,2,2,0,0,0,0,5,6,13,26,30,33,49,65,60,81,150,0
+De Coquimbo, C00-D48,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Coquimbo, E00-E90,Hombres,0,0,0,0,0,0,0,0,1,0,2,8,6,10,18,13,33,0
+De Coquimbo, E00-E90,Mujeres,2,0,0,0,0,0,1,0,2,1,2,3,6,6,10,18,67,0
+De Coquimbo, E00-E90,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Coquimbo, F00-F90,Hombres,0,0,0,0,0,0,0,0,0,1,2,1,1,1,3,2,6,0
+De Coquimbo, F00-F90,Mujeres,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,25,0
+De Coquimbo, F00-F90,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Coquimbo, G00-G99,Hombres,2,0,0,2,2,0,0,1,2,3,2,3,1,6,14,8,31,0
+De Coquimbo, G00-G99,Mujeres,3,0,1,0,0,0,1,1,0,1,3,1,1,1,2,9,49,0
+De Coquimbo, G00-G99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Coquimbo, I00-I99,Hombres,0,0,0,1,2,0,2,4,9,15,25,33,35,50,77,85,209,0
+De Coquimbo, I00-I99,Mujeres,1,0,0,0,0,1,1,3,5,5,6,12,19,32,58,76,341,0
+De Coquimbo, J00-J99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Coquimbo, J00-J99,Hombres,1,1,0,0,1,1,1,0,4,3,4,12,7,8,16,36,105,0
+De Coquimbo, J00-J99,Mujeres,2,1,0,0,0,0,0,1,0,1,3,3,6,7,11,12,116,0
+De Coquimbo, J00-J99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Coquimbo, K00-K93,Hombres,0,0,0,0,0,0,1,2,6,11,22,14,11,11,21,21,24,0
+De Coquimbo, K00-K93,Mujeres,0,0,0,0,0,1,0,1,5,4,5,7,9,8,9,15,40,0
+De Coquimbo, K00-K93,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Coquimbo, N00-N99,Hombres,0,0,0,0,0,0,0,0,0,1,2,1,3,7,8,8,31,0
+De Coquimbo, N00-N99,Mujeres,0,0,1,0,0,0,0,1,1,0,2,2,1,3,4,6,33,0
+De Coquimbo, N00-N99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Coquimbo, P00-P96,Hombres,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Coquimbo, P00-P96,Mujeres,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Coquimbo, P00-P96,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Coquimbo, Q00-Q99,Hombres,12,0,1,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0
+De Coquimbo, Q00-Q99,Mujeres,15,1,0,3,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+De Coquimbo, Q00-Q99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Coquimbo, R00-R99,Hombres,6,0,0,1,1,0,1,2,2,2,3,5,4,1,3,8,35,0
+De Coquimbo, R00-R99,Mujeres,4,0,0,0,0,1,0,1,0,0,2,3,5,4,6,6,61,0
+De Coquimbo, R00-R99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Coquimbo, V00-Y98,Hombres,1,1,1,11,28,16,27,11,16,19,8,12,12,8,14,11,16,0
+De Coquimbo, V00-Y98,Mujeres,2,4,2,4,4,6,1,1,4,1,2,5,2,2,4,2,22,0
+De Coquimbo, V00-Y98,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Coquimbo,,Hombres,0,0,0,0,0,0,0,0,0,2,1,5,2,3,2,2,5,0
+De Coquimbo,,Mujeres,0,0,0,0,0,1,1,0,0,3,2,2,2,4,4,2,24,0
+De Coquimbo,,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Valparaíso, A00-B99,Hombres,0,0,0,2,0,5,4,2,13,14,12,17,11,23,24,16,26,0
+De Valparaíso, A00-B99,Mujeres,0,0,0,0,1,2,0,4,4,1,4,8,8,10,8,22,62,0
+De Valparaíso, A00-B99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Valparaíso, C00-D48,Hombres,5,1,4,7,6,7,8,7,23,43,68,101,164,198,251,253,520,0
+De Valparaíso, C00-D48,Mujeres,4,2,0,1,3,7,9,12,30,59,81,95,126,152,201,194,477,0
+De Valparaíso, C00-D48,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Valparaíso, E00-E90,Hombres,1,0,1,0,0,0,0,1,2,3,6,17,15,41,50,43,104,0
+De Valparaíso, E00-E90,Mujeres,0,0,0,1,0,0,1,0,4,3,6,9,6,33,27,40,167,0
+De Valparaíso, E00-E90,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Valparaíso, F00-F90,Hombres,0,0,0,0,0,0,1,0,2,1,3,2,0,6,4,10,67,0
+De Valparaíso, F00-F90,Mujeres,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,17,108,0
+De Valparaíso, F00-F90,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Valparaíso, G00-G99,Hombres,2,1,0,2,4,3,3,5,3,5,8,6,8,11,17,31,74,0
+De Valparaíso, G00-G99,Mujeres,0,0,2,0,1,4,1,1,2,3,3,8,3,11,13,24,174,0
+De Valparaíso, G00-G99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Valparaíso, I00-I99,Hombres,1,0,0,1,3,3,6,11,22,39,80,106,145,206,203,229,702,0
+De Valparaíso, I00-I99,Mujeres,0,0,0,1,1,3,2,7,10,20,24,41,66,91,158,212,1132,0
+De Valparaíso, J00-J99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Valparaíso, J00-J99,Hombres,1,0,0,2,1,0,1,2,4,9,10,22,32,53,73,80,308,0
+De Valparaíso, J00-J99,Mujeres,0,0,0,2,1,1,1,0,5,1,5,6,21,32,38,59,428,0
+De Valparaíso, J00-J99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Valparaíso, K00-K93,Hombres,0,0,1,1,0,3,3,3,8,22,35,42,47,61,65,68,100,0
+De Valparaíso, K00-K93,Mujeres,0,0,0,0,1,0,0,4,4,6,12,16,19,39,36,37,156,0
+De Valparaíso, K00-K93,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Valparaíso, N00-N99,Hombres,1,0,0,0,0,0,0,0,1,1,6,7,14,18,11,31,109,0
+De Valparaíso, N00-N99,Mujeres,0,0,0,2,0,0,1,1,2,4,1,5,9,10,20,33,174,0
+De Valparaíso, N00-N99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Valparaíso, P00-P96,Hombres,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Valparaíso, P00-P96,Mujeres,28,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+De Valparaíso, P00-P96,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Valparaíso, Q00-Q99,Hombres,37,0,0,0,1,0,0,1,1,1,1,1,2,0,1,0,1,0
+De Valparaíso, Q00-Q99,Mujeres,33,0,0,1,0,0,1,1,1,2,0,1,1,1,0,1,1,0
+De Valparaíso, Q00-Q99,Indeterminado,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Valparaíso, R00-R99,Hombres,8,2,0,0,1,2,4,3,1,5,16,10,2,16,14,14,78,0
+De Valparaíso, R00-R99,Mujeres,5,0,0,1,2,0,1,2,3,0,7,6,0,8,7,7,151,0
+De Valparaíso, R00-R99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Valparaíso, V00-Y98,Hombres,4,1,4,22,53,52,37,31,40,33,41,37,32,32,26,26,62,0
+De Valparaíso, V00-Y98,Mujeres,4,1,3,3,11,7,8,8,5,6,9,8,13,12,16,14,91,0
+De Valparaíso, V00-Y98,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Valparaíso,,Hombres,0,0,0,0,1,0,1,2,2,3,3,4,5,2,8,9,26,0
+De Valparaíso,,Mujeres,1,1,0,1,5,3,3,4,0,4,4,0,5,4,13,18,57,0
+De Valparaíso,,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Metropolitana de Santiago, A00-B99,Hombres,5,0,1,0,7,21,29,37,41,48,38,54,48,38,57,45,84,0
+Metropolitana de Santiago, A00-B99,Mujeres,10,0,0,1,0,1,11,5,9,11,12,22,26,35,33,37,176,0
+Metropolitana de Santiago, A00-B99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Metropolitana de Santiago, C00-D48,Hombres,9,12,17,14,24,32,33,36,55,125,223,382,523,687,786,676,1336,0
+Metropolitana de Santiago, C00-D48,Mujeres,12,8,6,14,9,17,26,49,83,171,258,329,453,548,647,602,1456,0
+Metropolitana de Santiago, C00-D48,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Metropolitana de Santiago, E00-E90,Hombres,1,0,1,0,3,4,2,5,10,21,33,66,82,117,143,157,357,0
+Metropolitana de Santiago, E00-E90,Mujeres,3,0,1,3,4,2,4,4,9,14,23,44,61,109,130,156,621,0
+Metropolitana de Santiago, E00-E90,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Metropolitana de Santiago, F00-F90,Hombres,0,0,0,0,1,1,0,1,2,3,9,11,12,12,19,30,197,1
+Metropolitana de Santiago, F00-F90,Mujeres,0,0,0,0,0,1,1,0,0,2,2,3,6,8,13,43,456,0
+Metropolitana de Santiago, F00-F90,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Metropolitana de Santiago, G00-G99,Hombres,13,5,4,11,15,13,11,4,14,17,30,25,21,32,49,84,297,0
+Metropolitana de Santiago, G00-G99,Mujeres,6,2,3,3,7,3,4,1,6,17,18,24,28,33,35,89,550,0
+Metropolitana de Santiago, G00-G99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Metropolitana de Santiago, I00-I99,Hombres,5,0,4,3,10,14,31,48,104,158,276,337,466,549,649,659,1935,0
+Metropolitana de Santiago, I00-I99,Mujeres,5,1,2,1,3,6,8,25,48,61,113,183,225,348,473,597,3692,0
+Metropolitana de Santiago, J00-J99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Metropolitana de Santiago, J00-J99,Hombres,9,0,1,4,2,4,11,18,22,29,52,85,94,166,214,284,1032,0
+Metropolitana de Santiago, J00-J99,Mujeres,10,1,0,4,3,5,6,5,5,17,26,40,74,87,169,227,1487,0
+Metropolitana de Santiago, J00-J99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Metropolitana de Santiago, K00-K93,Hombres,1,0,2,0,4,9,18,31,81,124,202,186,196,210,210,167,257,0
+Metropolitana de Santiago, K00-K93,Mujeres,4,1,0,0,0,4,6,10,19,38,55,67,89,118,141,123,448,0
+Metropolitana de Santiago, K00-K93,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Metropolitana de Santiago, N00-N99,Hombres,0,0,0,0,0,1,0,3,5,7,16,29,19,36,58,65,256,0
+Metropolitana de Santiago, N00-N99,Mujeres,0,0,1,1,0,1,1,3,4,7,14,17,28,52,58,74,366,0
+Metropolitana de Santiago, N00-N99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Metropolitana de Santiago, P00-P96,Hombres,190,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Metropolitana de Santiago, P00-P96,Mujeres,149,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Metropolitana de Santiago, P00-P96,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Metropolitana de Santiago, Q00-Q99,Hombres,144,1,2,2,6,1,2,1,3,5,5,3,3,2,1,2,0,0
+Metropolitana de Santiago, Q00-Q99,Mujeres,157,4,1,3,5,3,7,5,1,3,3,3,1,2,3,1,3,0
+Metropolitana de Santiago, Q00-Q99,Indeterminado,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Metropolitana de Santiago, R00-R99,Hombres,20,1,0,3,6,6,12,11,12,11,18,20,11,27,25,24,113,0
+Metropolitana de Santiago, R00-R99,Mujeres,16,1,0,3,6,4,5,6,5,11,11,10,14,15,20,14,250,0
+Metropolitana de Santiago, R00-R99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Metropolitana de Santiago, V00-Y98,Hombres,25,15,18,86,197,221,195,145,158,153,164,133,127,92,82,54,133,0
+Metropolitana de Santiago, V00-Y98,Mujeres,19,6,9,26,37,28,29,30,31,33,31,46,22,27,34,41,220,0
+Metropolitana de Santiago, V00-Y98,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Metropolitana de Santiago,,Hombres,2,0,1,2,0,2,4,1,4,12,2,3,7,17,26,15,48,0
+Metropolitana de Santiago,,Mujeres,3,0,0,3,5,5,10,8,14,3,10,10,17,14,27,29,153,0
+Metropolitana de Santiago,,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Libertador B. O'Higgins, A00-B99,Hombres,1,0,0,0,0,2,5,3,8,9,3,4,2,8,6,7,14,0
+Del Libertador B. O'Higgins, A00-B99,Mujeres,4,0,0,0,1,1,2,2,1,3,8,2,4,4,7,4,24,0
+Del Libertador B. O'Higgins, A00-B99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Libertador B. O'Higgins, C00-D48,Hombres,1,1,1,3,3,7,4,2,15,12,32,51,69,98,100,120,210,0
+Del Libertador B. O'Higgins, C00-D48,Mujeres,2,1,1,0,3,3,4,6,12,21,35,53,71,81,82,82,167,0
+Del Libertador B. O'Higgins, C00-D48,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Libertador B. O'Higgins, E00-E90,Hombres,0,0,0,1,0,0,0,0,1,1,2,3,10,11,17,20,40,0
+Del Libertador B. O'Higgins, E00-E90,Mujeres,0,1,0,0,0,0,0,0,0,1,4,6,9,9,12,28,75,0
+Del Libertador B. O'Higgins, E00-E90,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Libertador B. O'Higgins, F00-F90,Hombres,0,0,0,0,0,0,0,0,1,2,0,0,1,3,1,3,24,0
+Del Libertador B. O'Higgins, F00-F90,Mujeres,0,0,0,1,0,0,0,0,0,0,2,0,0,2,0,3,41,0
+Del Libertador B. O'Higgins, F00-F90,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Libertador B. O'Higgins, G00-G99,Hombres,0,1,1,3,2,1,0,2,1,4,2,2,2,3,5,11,49,0
+Del Libertador B. O'Higgins, G00-G99,Mujeres,1,0,0,1,3,1,1,2,0,1,1,4,2,7,8,15,40,0
+Del Libertador B. O'Higgins, G00-G99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Libertador B. O'Higgins, I00-I99,Hombres,0,0,1,2,0,1,4,5,5,25,32,48,55,89,90,93,327,0
+Del Libertador B. O'Higgins, I00-I99,Mujeres,0,0,0,2,2,0,1,3,2,10,17,29,25,41,61,96,356,0
+Del Libertador B. O'Higgins, J00-J99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Libertador B. O'Higgins, J00-J99,Hombres,1,0,0,0,1,0,2,2,4,4,9,6,14,33,30,38,177,0
+Del Libertador B. O'Higgins, J00-J99,Mujeres,0,0,0,0,0,0,0,1,1,2,7,4,6,14,17,34,148,0
+Del Libertador B. O'Higgins, J00-J99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Libertador B. O'Higgins, K00-K93,Hombres,1,0,0,0,0,0,3,2,9,14,20,37,42,39,22,33,46,0
+Del Libertador B. O'Higgins, K00-K93,Mujeres,1,0,0,1,1,2,0,6,3,7,6,18,12,17,16,21,58,0
+Del Libertador B. O'Higgins, K00-K93,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Libertador B. O'Higgins, N00-N99,Hombres,0,0,0,0,0,0,4,0,1,3,2,4,2,6,4,12,41,0
+Del Libertador B. O'Higgins, N00-N99,Mujeres,0,0,0,0,0,1,0,0,0,0,1,6,4,8,10,7,30,0
+Del Libertador B. O'Higgins, N00-N99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Libertador B. O'Higgins, P00-P96,Hombres,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Libertador B. O'Higgins, P00-P96,Mujeres,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Libertador B. O'Higgins, P00-P96,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Libertador B. O'Higgins, Q00-Q99,Hombres,25,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0
+Del Libertador B. O'Higgins, Q00-Q99,Mujeres,24,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0
+Del Libertador B. O'Higgins, Q00-Q99,Indeterminado,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Libertador B. O'Higgins, R00-R99,Hombres,2,0,0,0,1,4,2,1,5,3,0,5,1,8,5,7,39,0
+Del Libertador B. O'Higgins, R00-R99,Mujeres,0,0,0,0,2,1,1,0,5,2,1,0,2,4,3,5,48,0
+Del Libertador B. O'Higgins, R00-R99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Libertador B. O'Higgins, V00-Y98,Hombres,7,0,2,21,17,31,28,28,26,29,29,23,17,24,17,17,20,0
+Del Libertador B. O'Higgins, V00-Y98,Mujeres,1,2,1,3,6,4,1,7,5,3,4,2,5,6,1,4,38,0
+Del Libertador B. O'Higgins, V00-Y98,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Libertador B. O'Higgins,,Hombres,0,0,0,0,0,0,0,0,0,5,1,3,1,2,7,1,10,0
+Del Libertador B. O'Higgins,,Mujeres,0,0,0,0,3,1,3,2,1,1,3,3,1,3,2,12,29,0
+Del Libertador B. O'Higgins,,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Maule, A00-B99,Hombres,0,1,0,0,0,2,1,5,1,2,2,6,1,7,4,4,19,0
+Del Maule, A00-B99,Mujeres,2,0,0,0,0,0,1,2,3,2,3,5,1,5,7,8,21,0
+Del Maule, A00-B99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Maule, C00-D48,Hombres,4,1,0,0,5,3,2,9,7,17,34,60,90,111,120,129,249,0
+Del Maule, C00-D48,Mujeres,1,0,2,3,0,3,4,14,10,27,41,64,70,85,106,102,216,0
+Del Maule, C00-D48,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Maule, E00-E90,Hombres,0,1,0,0,1,0,0,1,2,3,4,9,13,18,16,19,53,0
+Del Maule, E00-E90,Mujeres,1,0,0,0,1,0,0,0,0,3,1,5,10,12,18,10,63,0
+Del Maule, E00-E90,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Maule, F00-F90,Hombres,0,0,0,0,0,0,0,2,0,1,5,1,2,2,7,4,15,0
+Del Maule, F00-F90,Mujeres,0,0,0,0,0,0,1,0,1,0,1,0,1,3,4,3,36,0
+Del Maule, F00-F90,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Maule, G00-G99,Hombres,1,3,2,3,5,2,0,1,2,0,2,3,3,6,6,13,31,0
+Del Maule, G00-G99,Mujeres,5,1,1,1,1,1,0,0,0,2,4,2,3,6,5,5,62,0
+Del Maule, G00-G99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Maule, I00-I99,Hombres,0,0,0,1,4,0,2,8,12,20,33,50,79,107,128,133,357,0
+Del Maule, I00-I99,Mujeres,0,0,2,0,2,3,2,1,6,10,12,25,36,65,83,122,452,0
+Del Maule, J00-J99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Maule, J00-J99,Hombres,3,0,0,0,1,3,1,0,2,6,7,7,13,26,33,50,214,0
+Del Maule, J00-J99,Mujeres,3,0,0,0,0,0,1,1,0,1,6,1,8,15,30,34,239,0
+Del Maule, J00-J99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Maule, K00-K93,Hombres,0,0,0,0,0,0,1,3,12,18,31,26,33,41,21,43,39,0
+Del Maule, K00-K93,Mujeres,0,0,0,1,1,0,0,2,4,3,11,12,15,17,25,15,57,0
+Del Maule, K00-K93,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Maule, N00-N99,Hombres,0,0,0,0,0,0,0,1,0,1,4,7,6,8,9,11,41,0
+Del Maule, N00-N99,Mujeres,0,0,0,0,0,0,0,0,0,0,1,3,3,7,14,10,64,0
+Del Maule, N00-N99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Maule, P00-P96,Hombres,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Maule, P00-P96,Mujeres,19,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Del Maule, P00-P96,Indeterminado,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Maule, Q00-Q99,Hombres,21,0,0,2,4,0,0,0,0,3,1,0,0,1,0,0,1,0
+Del Maule, Q00-Q99,Mujeres,26,0,1,1,1,0,2,0,0,0,2,2,0,0,0,0,0,0
+Del Maule, Q00-Q99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Maule, R00-R99,Hombres,1,0,0,0,0,1,0,0,3,2,5,3,3,7,5,10,24,0
+Del Maule, R00-R99,Mujeres,2,0,0,0,0,0,0,0,1,1,0,1,3,2,4,4,48,0
+Del Maule, R00-R99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Maule, V00-Y98,Hombres,9,3,3,18,32,37,29,20,32,28,37,35,29,31,22,15,36,0
+Del Maule, V00-Y98,Mujeres,2,0,2,4,7,6,9,1,2,7,7,7,4,3,6,5,37,0
+Del Maule, V00-Y98,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Maule,,Hombres,4,1,0,0,1,0,0,1,0,0,2,2,3,3,2,2,18,0
+Del Maule,,Mujeres,1,0,0,0,1,1,1,1,1,2,0,3,2,8,5,5,25,0
+Del Maule,,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Bíobío, A00-B99,Hombres,0,0,0,0,4,6,8,7,8,16,9,17,16,16,23,23,56,1
+Del Bíobío, A00-B99,Mujeres,1,0,1,0,0,2,3,0,0,3,7,11,8,7,14,16,77,0
+Del Bíobío, A00-B99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Bíobío, C00-D48,Hombres,5,5,1,3,8,6,10,12,19,47,65,114,176,248,284,247,471,0
+Del Bíobío, C00-D48,Mujeres,2,3,0,1,5,12,12,16,37,66,103,138,165,170,208,230,465,0
+Del Bíobío, C00-D48,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Bíobío, E00-E90,Hombres,0,0,0,0,0,0,2,1,1,5,6,8,25,37,49,46,96,0
+Del Bíobío, E00-E90,Mujeres,1,0,0,1,0,1,3,1,4,4,7,9,22,32,45,53,172,0
+Del Bíobío, E00-E90,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Bíobío, F00-F90,Hombres,0,0,0,0,0,1,0,0,0,1,1,3,2,3,5,7,42,0
+Del Bíobío, F00-F90,Mujeres,0,0,0,0,0,0,1,0,0,0,0,1,1,1,4,11,82,0
+Del Bíobío, F00-F90,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Bíobío, G00-G99,Hombres,3,3,3,11,3,4,0,3,4,5,6,8,7,13,17,20,68,0
+Del Bíobío, G00-G99,Mujeres,3,2,1,0,4,3,4,1,6,2,2,7,1,8,20,27,138,0
+Del Bíobío, G00-G99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Bíobío, I00-I99,Hombres,0,0,0,5,7,3,11,17,27,54,84,128,160,212,249,247,658,0
+Del Bíobío, I00-I99,Mujeres,1,0,1,1,2,3,3,10,9,18,40,56,91,112,167,208,910,0
+Del Bíobío, J00-J99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Bíobío, J00-J99,Hombres,3,0,1,0,1,0,0,4,8,7,13,22,45,42,64,81,294,0
+Del Bíobío, J00-J99,Mujeres,1,0,0,0,0,0,1,1,4,8,6,13,11,33,40,67,458,0
+Del Bíobío, J00-J99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Bíobío, K00-K93,Hombres,2,0,0,1,1,5,7,14,30,61,57,61,82,102,73,63,100,0
+Del Bíobío, K00-K93,Mujeres,2,0,0,1,1,2,2,3,6,14,20,34,41,44,61,53,124,0
+Del Bíobío, K00-K93,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Bíobío, N00-N99,Hombres,1,0,0,0,0,0,1,0,1,0,3,10,8,18,23,27,80,0
+Del Bíobío, N00-N99,Mujeres,1,0,0,1,0,0,1,1,0,1,1,7,12,9,16,25,110,0
+Del Bíobío, N00-N99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Bíobío, P00-P96,Hombres,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Bíobío, P00-P96,Mujeres,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Bíobío, P00-P96,Indeterminado,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Bíobío, Q00-Q99,Hombres,50,0,0,3,2,1,0,0,0,2,1,0,2,1,0,0,0,0
+Del Bíobío, Q00-Q99,Mujeres,31,1,1,2,0,2,1,0,4,0,1,1,0,0,0,1,0,0
+Del Bíobío, Q00-Q99,Indeterminado,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Bíobío, R00-R99,Hombres,7,0,0,0,2,2,2,3,3,6,4,7,11,8,10,8,49,0
+Del Bíobío, R00-R99,Mujeres,2,0,1,0,0,0,1,1,4,2,1,2,1,6,4,12,86,0
+Del Bíobío, R00-R99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Bíobío, V00-Y98,Hombres,13,2,4,42,64,62,62,47,54,69,68,65,54,65,45,33,75,0
+Del Bíobío, V00-Y98,Mujeres,5,4,6,7,17,11,9,7,12,14,10,16,12,10,12,19,69,0
+Del Bíobío, V00-Y98,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Del Bíobío,,Hombres,1,0,1,0,0,0,1,0,2,3,3,4,1,4,10,8,22,0
+Del Bíobío,,Mujeres,2,0,0,1,2,2,2,4,5,2,1,4,5,3,10,11,68,0
+Del Bíobío,,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De La Araucanía, A00-B99,Hombres,1,0,0,0,1,1,2,1,4,2,6,2,6,8,3,11,22,0
+De La Araucanía, A00-B99,Mujeres,1,1,0,0,1,1,2,2,1,2,4,0,1,3,6,7,35,0
+De La Araucanía, A00-B99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De La Araucanía, C00-D48,Hombres,2,2,1,4,3,4,5,7,13,14,21,65,77,112,99,122,224,0
+De La Araucanía, C00-D48,Mujeres,1,0,1,3,4,2,3,13,17,35,31,51,62,86,104,125,223,0
+De La Araucanía, C00-D48,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De La Araucanía, E00-E90,Hombres,0,1,0,0,0,2,0,1,0,4,3,6,9,16,16,23,41,0
+De La Araucanía, E00-E90,Mujeres,0,0,1,0,1,1,0,0,1,1,5,6,9,10,16,19,70,0
+De La Araucanía, E00-E90,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De La Araucanía, F00-F90,Hombres,0,0,0,0,0,0,1,1,0,2,0,0,2,1,5,3,27,0
+De La Araucanía, F00-F90,Mujeres,0,0,0,0,0,0,0,0,0,0,3,0,0,2,0,5,53,0
+De La Araucanía, F00-F90,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De La Araucanía, G00-G99,Hombres,2,1,2,2,2,1,2,5,4,2,0,5,5,7,8,8,33,0
+De La Araucanía, G00-G99,Mujeres,0,1,1,0,4,1,0,2,1,0,3,3,2,6,3,11,71,0
+De La Araucanía, G00-G99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De La Araucanía, I00-I99,Hombres,1,0,0,2,2,3,3,6,10,24,37,37,57,90,119,122,327,0
+De La Araucanía, I00-I99,Mujeres,0,0,0,1,0,0,1,3,4,11,17,25,36,61,65,85,435,0
+De La Araucanía, J00-J99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De La Araucanía, J00-J99,Hombres,2,1,0,1,1,6,2,2,5,6,12,11,10,12,37,45,180,0
+De La Araucanía, J00-J99,Mujeres,2,0,0,0,2,1,0,1,2,2,4,11,7,11,22,49,178,0
+De La Araucanía, J00-J99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De La Araucanía, K00-K93,Hombres,0,1,0,0,2,3,2,10,20,25,30,25,32,28,36,22,54,0
+De La Araucanía, K00-K93,Mujeres,1,1,0,0,0,0,1,1,2,4,9,8,13,13,12,16,54,0
+De La Araucanía, K00-K93,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De La Araucanía, N00-N99,Hombres,0,0,0,0,0,0,0,0,0,0,1,2,1,9,12,10,48,0
+De La Araucanía, N00-N99,Mujeres,0,0,0,0,0,0,0,0,0,2,1,2,3,9,9,12,63,0
+De La Araucanía, N00-N99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De La Araucanía, P00-P96,Hombres,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De La Araucanía, P00-P96,Mujeres,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De La Araucanía, P00-P96,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De La Araucanía, Q00-Q99,Hombres,21,0,0,0,2,2,0,1,0,1,2,4,1,0,0,0,0,0
+De La Araucanía, Q00-Q99,Mujeres,17,1,1,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0
+De La Araucanía, Q00-Q99,Indeterminado,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De La Araucanía, R00-R99,Hombres,3,0,0,0,0,0,0,2,1,3,9,9,4,12,10,20,85,1
+De La Araucanía, R00-R99,Mujeres,2,0,1,0,0,1,0,1,0,2,2,5,3,7,15,17,100,0
+De La Araucanía, R00-R99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De La Araucanía, V00-Y98,Hombres,4,1,5,16,28,32,24,23,43,47,43,41,22,31,20,15,28,2
+De La Araucanía, V00-Y98,Mujeres,2,0,2,5,9,7,5,4,8,2,4,5,4,3,10,11,40,0
+De La Araucanía, V00-Y98,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De La Araucanía,,Hombres,1,0,0,0,1,0,1,0,0,2,1,0,0,2,5,4,22,0
+De La Araucanía,,Mujeres,1,0,0,0,1,1,4,0,1,2,3,4,4,5,6,4,29,0
+De La Araucanía,,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Ríos, A00-B99,Hombres,1,0,0,0,0,0,1,1,3,2,1,0,1,4,5,6,8,0
+De Los Ríos, A00-B99,Mujeres,1,0,0,0,0,0,0,1,1,2,1,5,2,3,3,4,10,0
+De Los Ríos, A00-B99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Ríos, C00-D48,Hombres,3,2,0,1,1,3,3,0,4,15,9,25,33,43,51,65,92,0
+De Los Ríos, C00-D48,Mujeres,1,3,0,1,0,2,1,4,7,13,17,24,23,34,35,41,97,0
+De Los Ríos, C00-D48,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Ríos, E00-E90,Hombres,0,0,0,0,1,0,0,0,0,0,0,3,4,8,13,15,16,0
+De Los Ríos, E00-E90,Mujeres,0,0,0,0,0,0,0,0,0,0,5,1,3,8,6,12,21,0
+De Los Ríos, E00-E90,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Ríos, F00-F90,Hombres,0,0,0,0,0,0,0,0,0,1,2,2,1,3,1,4,8,0
+De Los Ríos, F00-F90,Mujeres,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,21,0
+De Los Ríos, F00-F90,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Ríos, G00-G99,Hombres,0,0,0,0,1,0,1,1,0,3,1,2,2,1,6,4,22,0
+De Los Ríos, G00-G99,Mujeres,3,1,1,1,1,2,0,0,0,1,1,0,1,1,2,3,34,0
+De Los Ríos, G00-G99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Ríos, I00-I99,Hombres,0,0,0,0,1,0,1,2,7,10,15,27,23,36,42,65,136,0
+De Los Ríos, I00-I99,Mujeres,0,0,0,0,2,0,0,1,3,5,10,11,13,25,37,42,184,0
+De Los Ríos, J00-J99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Ríos, J00-J99,Hombres,1,0,0,1,0,0,0,0,3,0,1,0,6,11,16,22,68,0
+De Los Ríos, J00-J99,Mujeres,0,0,0,0,0,0,0,0,0,3,0,2,6,3,14,19,89,0
+De Los Ríos, J00-J99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Ríos, K00-K93,Hombres,0,0,1,0,0,0,1,3,5,10,9,19,10,17,17,9,17,0
+De Los Ríos, K00-K93,Mujeres,0,0,0,0,0,0,0,1,1,1,3,9,1,8,13,7,16,0
+De Los Ríos, K00-K93,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Ríos, N00-N99,Hombres,0,0,0,0,0,0,0,0,0,0,1,0,1,2,5,8,24,0
+De Los Ríos, N00-N99,Mujeres,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,6,30,0
+De Los Ríos, N00-N99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Ríos, P00-P96,Hombres,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Ríos, P00-P96,Mujeres,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Ríos, P00-P96,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Ríos, Q00-Q99,Hombres,4,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+De Los Ríos, Q00-Q99,Mujeres,7,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+De Los Ríos, Q00-Q99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Ríos, R00-R99,Hombres,1,0,0,0,1,1,0,1,2,1,2,1,1,5,2,5,24,0
+De Los Ríos, R00-R99,Mujeres,3,0,0,0,0,0,0,2,1,0,0,1,2,0,2,2,31,0
+De Los Ríos, R00-R99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Ríos, V00-Y98,Hombres,5,1,2,8,10,8,11,12,18,16,20,18,15,9,5,9,13,0
+De Los Ríos, V00-Y98,Mujeres,2,0,1,2,1,1,3,3,2,4,5,4,4,6,2,8,15,0
+De Los Ríos, V00-Y98,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Ríos,,Hombres,0,0,0,0,0,0,1,0,0,0,0,2,1,1,4,2,6,0
+De Los Ríos,,Mujeres,1,0,0,0,0,0,0,2,0,0,3,1,1,0,0,4,14,0
+De Los Ríos,,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Lagos, A00-B99,Hombres,1,1,0,0,0,2,4,2,4,2,5,7,8,10,5,10,18,0
+De Los Lagos, A00-B99,Mujeres,1,0,0,0,0,0,1,1,1,2,0,3,3,5,6,7,17,0
+De Los Lagos, A00-B99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Lagos, C00-D48,Hombres,2,5,0,2,1,4,5,8,11,18,28,41,56,74,108,109,179,0
+De Los Lagos, C00-D48,Mujeres,2,2,0,0,1,2,7,8,17,24,28,41,47,78,83,83,198,0
+De Los Lagos, C00-D48,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Lagos, E00-E90,Hombres,0,0,1,0,0,0,1,0,5,0,3,6,11,19,15,13,29,0
+De Los Lagos, E00-E90,Mujeres,0,0,1,0,0,0,0,0,2,3,7,8,4,15,14,21,49,0
+De Los Lagos, E00-E90,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Lagos, F00-F90,Hombres,0,0,0,0,0,0,0,1,3,1,1,4,2,4,4,5,11,0
+De Los Lagos, F00-F90,Mujeres,0,0,0,0,1,0,0,1,0,1,0,1,1,0,2,4,31,0
+De Los Lagos, F00-F90,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Lagos, G00-G99,Hombres,1,0,1,1,1,4,2,7,2,3,3,3,6,9,7,11,30,0
+De Los Lagos, G00-G99,Mujeres,0,0,2,0,2,0,1,3,3,0,5,1,5,4,8,8,56,0
+De Los Lagos, G00-G99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Lagos, I00-I99,Hombres,0,0,0,0,1,1,3,9,17,26,37,38,45,56,81,106,226,0
+De Los Lagos, I00-I99,Mujeres,3,1,0,2,1,0,1,1,9,8,20,20,19,22,51,69,347,0
+De Los Lagos, J00-J99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Lagos, J00-J99,Hombres,3,0,0,0,2,1,1,3,2,6,14,11,13,13,29,32,139,0
+De Los Lagos, J00-J99,Mujeres,1,1,0,0,0,0,0,0,1,2,5,4,9,10,23,30,193,0
+De Los Lagos, J00-J99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Lagos, K00-K93,Hombres,1,0,0,0,0,2,4,13,17,40,38,44,34,25,26,22,57,0
+De Los Lagos, K00-K93,Mujeres,1,0,0,0,0,0,1,1,2,8,3,2,10,13,16,19,56,0
+De Los Lagos, K00-K93,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Lagos, N00-N99,Hombres,1,0,0,0,0,0,0,1,1,2,0,3,2,6,13,9,33,0
+De Los Lagos, N00-N99,Mujeres,0,0,1,0,0,0,0,0,0,0,0,2,7,4,9,12,41,0
+De Los Lagos, N00-N99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Lagos, P00-P96,Hombres,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Lagos, P00-P96,Mujeres,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Lagos, P00-P96,Indeterminado,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Lagos, Q00-Q99,Hombres,27,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+De Los Lagos, Q00-Q99,Mujeres,22,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+De Los Lagos, Q00-Q99,Indeterminado,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Lagos, R00-R99,Hombres,3,0,1,0,0,0,1,5,0,5,5,2,5,8,8,5,22,0
+De Los Lagos, R00-R99,Mujeres,2,0,0,1,0,1,0,1,0,3,1,1,2,0,4,3,60,0
+De Los Lagos, R00-R99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Lagos, V00-Y98,Hombres,2,2,2,31,32,26,17,41,27,33,26,33,20,18,26,16,23,0
+De Los Lagos, V00-Y98,Mujeres,3,1,1,2,5,5,7,5,4,5,2,6,3,8,2,6,22,0
+De Los Lagos, V00-Y98,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Los Lagos,,Hombres,1,0,0,0,0,0,0,0,0,2,2,3,2,0,1,3,19,0
+De Los Lagos,,Mujeres,0,0,0,0,0,1,2,0,0,2,1,3,2,2,7,10,25,0
+De Los Lagos,,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Aisén del Gral. C. Ibáñez del Campo, A00-B99,Hombres,0,0,0,1,0,0,0,0,1,0,1,1,1,0,0,0,1,0
+De Aisén del Gral. C. Ibáñez del Campo, A00-B99,Mujeres,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+De Aisén del Gral. C. Ibáñez del Campo, A00-B99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Aisén del Gral. C. Ibáñez del Campo, C00-D48,Hombres,0,0,0,0,0,0,1,1,2,0,2,0,9,6,8,10,25,0
+De Aisén del Gral. C. Ibáñez del Campo, C00-D48,Mujeres,0,0,0,0,0,1,0,2,3,2,4,8,5,4,7,7,15,0
+De Aisén del Gral. C. Ibáñez del Campo, C00-D48,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Aisén del Gral. C. Ibáñez del Campo, E00-E90,Hombres,0,0,0,0,0,0,0,0,0,0,1,0,1,1,2,8,2,0
+De Aisén del Gral. C. Ibáñez del Campo, E00-E90,Mujeres,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,3,0
+De Aisén del Gral. C. Ibáñez del Campo, E00-E90,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Aisén del Gral. C. Ibáñez del Campo, F00-F90,Hombres,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,4,0
+De Aisén del Gral. C. Ibáñez del Campo, F00-F90,Mujeres,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+De Aisén del Gral. C. Ibáñez del Campo, F00-F90,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Aisén del Gral. C. Ibáñez del Campo, G00-G99,Hombres,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+De Aisén del Gral. C. Ibáñez del Campo, G00-G99,Mujeres,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0
+De Aisén del Gral. C. Ibáñez del Campo, G00-G99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Aisén del Gral. C. Ibáñez del Campo, I00-I99,Hombres,0,0,0,1,0,1,0,2,2,2,4,4,11,10,10,15,17,0
+De Aisén del Gral. C. Ibáñez del Campo, I00-I99,Mujeres,0,0,1,0,0,0,0,0,2,0,1,1,0,5,3,10,29,0
+De Aisén del Gral. C. Ibáñez del Campo, J00-J99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Aisén del Gral. C. Ibáñez del Campo, J00-J99,Hombres,0,0,0,0,0,0,0,0,0,0,2,2,0,3,2,3,16,0
+De Aisén del Gral. C. Ibáñez del Campo, J00-J99,Mujeres,2,0,0,0,0,0,0,0,0,0,0,0,0,3,1,4,13,0
+De Aisén del Gral. C. Ibáñez del Campo, J00-J99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Aisén del Gral. C. Ibáñez del Campo, K00-K93,Hombres,0,0,0,0,0,0,0,1,2,3,3,10,4,1,2,4,4,0
+De Aisén del Gral. C. Ibáñez del Campo, K00-K93,Mujeres,0,0,0,0,0,0,0,0,0,1,0,1,0,1,3,0,1,0
+De Aisén del Gral. C. Ibáñez del Campo, K00-K93,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Aisén del Gral. C. Ibáñez del Campo, N00-N99,Hombres,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,3,0
+De Aisén del Gral. C. Ibáñez del Campo, N00-N99,Mujeres,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4,0
+De Aisén del Gral. C. Ibáñez del Campo, N00-N99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Aisén del Gral. C. Ibáñez del Campo, P00-P96,Hombres,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Aisén del Gral. C. Ibáñez del Campo, P00-P96,Mujeres,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Aisén del Gral. C. Ibáñez del Campo, P00-P96,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Aisén del Gral. C. Ibáñez del Campo, Q00-Q99,Hombres,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+De Aisén del Gral. C. Ibáñez del Campo, Q00-Q99,Mujeres,3,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+De Aisén del Gral. C. Ibáñez del Campo, Q00-Q99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Aisén del Gral. C. Ibáñez del Campo, R00-R99,Hombres,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+De Aisén del Gral. C. Ibáñez del Campo, R00-R99,Mujeres,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0
+De Aisén del Gral. C. Ibáñez del Campo, R00-R99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Aisén del Gral. C. Ibáñez del Campo, V00-Y98,Hombres,0,0,2,4,4,4,4,6,1,1,7,1,2,2,0,2,2,0
+De Aisén del Gral. C. Ibáñez del Campo, V00-Y98,Mujeres,0,1,1,1,1,0,0,1,1,1,0,1,0,0,0,0,1,0
+De Aisén del Gral. C. Ibáñez del Campo, V00-Y98,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Aisén del Gral. C. Ibáñez del Campo,,Hombres,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+De Aisén del Gral. C. Ibáñez del Campo,,Mujeres,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2,0
+De Aisén del Gral. C. Ibáñez del Campo,,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Magallanes y de La Antártica Chilena, A00-B99,Hombres,0,0,0,0,0,0,0,0,0,0,3,1,1,1,0,4,4,0
+De Magallanes y de La Antártica Chilena, A00-B99,Mujeres,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,8,0
+De Magallanes y de La Antártica Chilena, A00-B99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Magallanes y de La Antártica Chilena, C00-D48,Hombres,0,1,1,1,0,0,1,2,5,6,10,12,21,22,32,19,42,0
+De Magallanes y de La Antártica Chilena, C00-D48,Mujeres,0,0,0,0,0,1,1,1,2,0,8,5,15,11,21,16,37,0
+De Magallanes y de La Antártica Chilena, C00-D48,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Magallanes y de La Antártica Chilena, E00-E90,Hombres,0,0,0,0,0,0,0,0,0,0,0,2,0,3,2,3,10,0
+De Magallanes y de La Antártica Chilena, E00-E90,Mujeres,0,0,0,0,0,0,0,0,0,0,0,0,4,1,4,6,8,0
+De Magallanes y de La Antártica Chilena, E00-E90,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Magallanes y de La Antártica Chilena, F00-F90,Hombres,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,4,0
+De Magallanes y de La Antártica Chilena, F00-F90,Mujeres,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,20,0
+De Magallanes y de La Antártica Chilena, F00-F90,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Magallanes y de La Antártica Chilena, G00-G99,Hombres,0,0,1,1,1,1,2,1,1,0,0,2,1,1,2,0,3,0
+De Magallanes y de La Antártica Chilena, G00-G99,Mujeres,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,12,0
+De Magallanes y de La Antártica Chilena, G00-G99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Magallanes y de La Antártica Chilena, I00-I99,Hombres,0,0,0,1,0,0,0,1,1,5,8,13,12,24,25,17,53,0
+De Magallanes y de La Antártica Chilena, I00-I99,Mujeres,0,0,0,0,0,0,0,0,1,4,1,3,4,9,8,15,98,0
+De Magallanes y de La Antártica Chilena, J00-J99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Magallanes y de La Antártica Chilena, J00-J99,Hombres,0,0,0,0,0,0,0,0,2,0,1,1,5,4,10,6,32,0
+De Magallanes y de La Antártica Chilena, J00-J99,Mujeres,0,0,0,0,0,0,0,0,0,2,2,1,1,1,1,5,19,0
+De Magallanes y de La Antártica Chilena, J00-J99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Magallanes y de La Antártica Chilena, K00-K93,Hombres,0,0,0,0,0,1,0,3,1,3,6,7,8,12,3,8,6,0
+De Magallanes y de La Antártica Chilena, K00-K93,Mujeres,0,0,0,0,0,0,0,2,0,0,2,1,4,0,3,2,13,0
+De Magallanes y de La Antártica Chilena, K00-K93,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Magallanes y de La Antártica Chilena, N00-N99,Hombres,0,0,0,0,0,0,0,0,0,0,1,0,1,1,3,2,9,0
+De Magallanes y de La Antártica Chilena, N00-N99,Mujeres,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,6,22,0
+De Magallanes y de La Antártica Chilena, N00-N99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Magallanes y de La Antártica Chilena, P00-P96,Hombres,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Magallanes y de La Antártica Chilena, P00-P96,Mujeres,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Magallanes y de La Antártica Chilena, P00-P96,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Magallanes y de La Antártica Chilena, Q00-Q99,Hombres,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Magallanes y de La Antártica Chilena, Q00-Q99,Mujeres,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+De Magallanes y de La Antártica Chilena, Q00-Q99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Magallanes y de La Antártica Chilena, R00-R99,Hombres,0,0,0,0,0,2,1,0,0,2,1,0,0,0,0,0,3,0
+De Magallanes y de La Antártica Chilena, R00-R99,Mujeres,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,5,0
+De Magallanes y de La Antártica Chilena, R00-R99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Magallanes y de La Antártica Chilena, V00-Y98,Hombres,0,0,2,4,4,4,8,3,5,9,2,7,5,6,5,2,5,0
+De Magallanes y de La Antártica Chilena, V00-Y98,Mujeres,0,0,0,0,2,1,1,2,1,0,1,2,0,1,1,1,4,0
+De Magallanes y de La Antártica Chilena, V00-Y98,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Magallanes y de La Antártica Chilena,,Hombres,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,3,0
+De Magallanes y de La Antártica Chilena,,Mujeres,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,6,0
+De Magallanes y de La Antártica Chilena,,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ignorada, I00-I99,Hombres,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0
+Ignorada, I00-I99,Mujeres,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Ignorada, I00-I99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ignorada, J00-J99,Hombres,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Ignorada, J00-J99,Mujeres,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ignorada, J00-J99,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ignorada, V00-Y98,Hombres,0,0,0,0,0,1,3,0,2,0,2,4,0,0,0,0,0,0
+Ignorada, V00-Y98,Mujeres,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0
+Ignorada, V00-Y98,Indeterminado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
